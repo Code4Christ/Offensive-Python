@@ -1,6 +1,6 @@
 # Offensive Security Tools Showcase
 
-Welcome to the Offensive Security Tools Showcase repository! This collection features a series of tools designed for educational purposes to explore and understand offensive security techniques. It's important to emphasize that these tools are intended solely for educational use, ethical hacking, and security research. Any usage of these tools for malicious intent or harm to others or their machines is strictly prohibited and against ethical standards.
+Welcome to the Offensive Security Python Showcase repository! This collection features a series of tools and python scripts designed for educational purposes to explore and understand offensive security techniques. It's important to emphasize that these tools are intended solely for educational use, ethical hacking, and security research. Any usage of these tools for malicious intent or harm to others or their machines is strictly prohibited and against ethical standards.
 
 ## Disclaimer
 
