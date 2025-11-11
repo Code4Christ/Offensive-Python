@@ -1,1 +1,2 @@
 14.[[:space:]]Broken-Authentication filter=lfs diff=lfs merge=lfs -text
+14.[[:space:]]Broken-Authentication/skills-assesment/rockyou.txt filter=lfs diff=lfs merge=lfs -text
