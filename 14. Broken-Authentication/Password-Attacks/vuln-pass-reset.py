@@ -206,7 +206,7 @@ def print_response(response):
     print(format_text("RESPONSE STATUS,r.status_code is:", r.status_code))
     print(format_text("RESPONSE COOKIES,r.cookies is:", r.cookies))
     print(format_text("RESPONSE CONTENT-LENGTH:", len(r.text)))
-    print(format_text("RESPONSE:\n", r.text))
+    print(format_text("RESPONSE:\n", r.text.strip()[:3000]))
 
 def format_text(title,item):
   """

