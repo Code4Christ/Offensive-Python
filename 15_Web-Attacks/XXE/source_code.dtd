@@ -1,0 +1,5 @@
+<!ENTITY % start "<![CDATA["> <!-- prepend the beginning of the CDATA tag -->
+<!ENTITY % file SYSTEM "file:///var/www/html/submitDetails.php" <!-- reference external file -->
+<!ENTITY % end "]]>"> <!-- append the end of the CDATA tag -->
+<!ENTITY fileContents "%start;%file;%end;">
+
