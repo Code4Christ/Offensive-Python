@@ -1,8 +1,0 @@
-shell.jpg.phar.
-shell.jpg.phar.
-shell.phtml..jpg
-shell.php/.jpg
-shell.phps/.jpg
-shell..phar..jpg
-shell.phar..jpg
-shell.phar..jpg
