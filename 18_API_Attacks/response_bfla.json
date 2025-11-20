@@ -1,0 +1,711 @@
+{
+  "customersBillingAddresses": [
+    {
+      "customerID": "fe4a4b39-3df6-425a-9525-a7b2914f711b",
+      "city": "Esbjerg",
+      "country": "Denmark",
+      "street": "851 Kongensgade",
+      "postalCode": 76079
+    },
+    {
+      "customerID": "3589e7f7-2d8a-4873-8bd9-b2c20b7a0ad2",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "street": "992 Bahnhofstrasse",
+      "postalCode": 11746
+    },
+    {
+      "customerID": "a0683cc9-a71f-4957-8fbb-45ead732040e",
+      "city": "Fier",
+      "country": "Albania",
+      "street": "787 Bulevardi Dëshmorët e Kombit",
+      "postalCode": 64633
+    },
+    {
+      "customerID": "dfeb5fde-52dc-4b36-b57b-96df1a5ac1ff",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "street": "293 Obchodná St.",
+      "postalCode": 13405
+    },
+    {
+      "customerID": "c3700aed-c7ff-4021-9977-778158cadfd2",
+      "city": "Marseille",
+      "country": "France",
+      "street": "141 La Canebière",
+      "postalCode": 18710
+    },
+    {
+      "customerID": "9076351f-e6b8-4445-84e3-72800c79dd1d",
+      "city": "Kent",
+      "country": "England",
+      "street": "HTB{1e2095c564baf0d2d316080217040dae}",
+      "postalCode": 19553
+    },
+    {
+      "customerID": "2be274f8-6eff-44a2-9f4f-00de2dab7cb4",
+      "city": "Iași",
+      "country": "Romania",
+      "street": "213 Bulevardul Ștefan cel Mare",
+      "postalCode": 44381
+    },
+    {
+      "customerID": "cbf72b8e-7bc1-468f-a430-cb789f57b4d0",
+      "city": "Zenica",
+      "country": "Bosnia and Herzegovina",
+      "street": "591 Titova St.",
+      "postalCode": 48271
+    },
+    {
+      "customerID": "dea0b54d-02d8-4b8d-add1-1486d8c621a0",
+      "city": "Malmo",
+      "country": "Sweden",
+      "street": "951 Södergatan",
+      "postalCode": 34544
+    },
+    {
+      "customerID": "a49e0e19-baad-4550-93ee-831f7a93608f",
+      "city": "Bangalore",
+      "country": "India",
+      "street": "276 Brigade Road",
+      "postalCode": 19026
+    },
+    {
+      "customerID": "daa8c984-ba84-4265-8d88-12d6607e511c",
+      "city": "Glasgow",
+      "country": "UK",
+      "street": "788 Sauchiehall St.",
+      "postalCode": 63103
+    },
+    {
+      "customerID": "69f075b7-d328-4a72-94f4-250f3361c9a4",
+      "city": "Poznan",
+      "country": "Poland",
+      "street": "439 Półwiejska St.",
+      "postalCode": 54338
+    },
+    {
+      "customerID": "d20bf1ff-adcc-491b-ae9a-416017a7a348",
+      "city": "Mostar",
+      "country": "Bosnia and Herzegovina",
+      "street": "784 Marsala Tita St.",
+      "postalCode": 74557
+    },
+    {
+      "customerID": "9ba96efd-8b13-49f3-b36a-dc3513e7054d",
+      "city": "Celje",
+      "country": "Slovenia",
+      "street": "755 Stanetova St.",
+      "postalCode": 92076
+    },
+    {
+      "customerID": "f708d525-4a3f-4740-b369-5061817f7ea4",
+      "city": "Fortaleza",
+      "country": "Brazil",
+      "street": "4 Avenida Beira Mar",
+      "postalCode": 24892
+    },
+    {
+      "customerID": "fa760e8a-4032-48b2-8ede-9c195146bad3",
+      "city": "Tampere",
+      "country": "Finland",
+      "street": "845 Hämeenkatu",
+      "postalCode": 10397
+    },
+    {
+      "customerID": "707fd1f7-bbe5-4995-827f-77f2c808b952",
+      "city": "Marseille",
+      "country": "France",
+      "street": "945 La Canebière",
+      "postalCode": 92495
+    },
+    {
+      "customerID": "ef750ff2-37f5-459d-be7b-24fcc14f16fa",
+      "city": "Melbourne",
+      "country": "Australia",
+      "street": "338 Collins St.",
+      "postalCode": 74123
+    },
+    {
+      "customerID": "2c63695b-bb51-4ff6-8541-75c50c2a7937",
+      "city": "Salzburg",
+      "country": "Austria",
+      "street": "731 Getreidegasse",
+      "postalCode": 10925
+    },
+    {
+      "customerID": "6047718b-9a6a-4e75-89a2-ed58ea5a0598",
+      "city": "Hong Kong",
+      "country": "China",
+      "street": "187 Nathan Rd.",
+      "postalCode": 28114
+    },
+    {
+      "customerID": "ffa062f2-50c6-4a10-b65f-e456067d764b",
+      "city": "Timișoara",
+      "country": "Romania",
+      "street": "919 Piața Victoriei",
+      "postalCode": 61440
+    },
+    {
+      "customerID": "7920a98b-3c0e-4263-aefd-2c17993b6b05",
+      "city": "Puebla",
+      "country": "Mexico",
+      "street": "563 Juarez Ave.",
+      "postalCode": 29547
+    },
+    {
+      "customerID": "69c105eb-69dd-4227-9eab-76c9576c6cea",
+      "city": "Nitra",
+      "country": "Slovakia",
+      "street": "428 Štefánikova St.",
+      "postalCode": 10011
+    },
+    {
+      "customerID": "cdb9edbd-1dfa-4ad1-978c-0f9df23e60a4",
+      "city": "Cluj-Napoca",
+      "country": "Romania",
+      "street": "252 Bulevardul Eroilor",
+      "postalCode": 69667
+    },
+    {
+      "customerID": "f499392b-da6a-4feb-8846-07034659fd3b",
+      "city": "Monterrey",
+      "country": "Mexico",
+      "street": "867 Morelos Ave.",
+      "postalCode": 72565
+    },
+    {
+      "customerID": "b8f4c8df-f87a-4281-be59-0e0c83c4471b",
+      "city": "Niš",
+      "country": "Serbia",
+      "street": "418 Obrenovićeva St.",
+      "postalCode": 20734
+    },
+    {
+      "customerID": "3bc313a0-4931-43ad-a407-8afd43a332d8",
+      "city": "Aarhus",
+      "country": "Denmark",
+      "street": "198 Ryesgade",
+      "postalCode": 21354
+    },
+    {
+      "customerID": "0e1f3590-af3c-45d9-8a34-4bc2dc04b73a",
+      "city": "Mostar",
+      "country": "Bosnia and Herzegovina",
+      "street": "465 Marsala Tita St.",
+      "postalCode": 62976
+    },
+    {
+      "customerID": "3ebdabe2-b41c-43c1-87c6-51ac0537051a",
+      "city": "Aalborg",
+      "country": "Denmark",
+      "street": "999 Algade",
+      "postalCode": 75774
+    },
+    {
+      "customerID": "7f3e1753-b124-4cc6-8634-0a7f92c07d84",
+      "city": "Espoo",
+      "country": "Finland",
+      "street": "917 Leppävaarankatu",
+      "postalCode": 41467
+    },
+    {
+      "customerID": "27e0dd7c-abab-4fbb-9b0d-ca02740bb01e",
+      "city": "Hamburg",
+      "country": "Germany",
+      "street": "220 Reeperbahn",
+      "postalCode": 34161
+    },
+    {
+      "customerID": "7d3ebce5-015a-4642-a52c-7e415f9b9f34",
+      "city": "Budapest",
+      "country": "Hungary",
+      "street": "148 Andrássy Ave.",
+      "postalCode": 88704
+    },
+    {
+      "customerID": "67e267c5-57da-4104-a1ab-ec7d6782ec2a",
+      "city": "Dublin",
+      "country": "Ireland",
+      "street": "470 Grafton St.",
+      "postalCode": 99566
+    },
+    {
+      "customerID": "df14cbe4-5a9d-4ae4-8bce-3faee7745a16",
+      "city": "Gdansk",
+      "country": "Poland",
+      "street": "617 Długa St.",
+      "postalCode": 40267
+    },
+    {
+      "customerID": "48de8cd0-4795-49d3-98ac-832704502b58",
+      "city": "Tuzla",
+      "country": "Bosnia and Herzegovina",
+      "street": "501 Korzo St.",
+      "postalCode": 18616
+    },
+    {
+      "customerID": "f0ee6f7e-181d-4267-88a1-63d1693ec21d",
+      "city": "Burgas",
+      "country": "Bulgaria",
+      "street": "525 Aleksandrovska St.",
+      "postalCode": 31069
+    },
+    {
+      "customerID": "a752caf1-6d1b-4e00-a640-b07a4a603fd8",
+      "city": "Brussels",
+      "country": "Belgium",
+      "street": "483 Rue Neuve",
+      "postalCode": 85097
+    },
+    {
+      "customerID": "74faf7a5-06ba-4121-b44e-da4af9790455",
+      "city": "Timișoara",
+      "country": "Romania",
+      "street": "786 Piața Victoriei",
+      "postalCode": 26374
+    },
+    {
+      "customerID": "128c8b26-20e5-40c6-8656-dc2cfdaa0870",
+      "city": "Larissa",
+      "country": "Greece",
+      "street": "95 Kouma St.",
+      "postalCode": 43173
+    },
+    {
+      "customerID": "0d8caf70-3f41-4e3d-959f-ce684fc1da81",
+      "city": "Lyon",
+      "country": "France",
+      "street": "2 Rue de la République",
+      "postalCode": 55463
+    },
+    {
+      "customerID": "64985dde-d28a-493c-810b-201597d3ea8a",
+      "city": "Kragujevac",
+      "country": "Serbia",
+      "street": "527 Trg Slobode",
+      "postalCode": 98192
+    },
+    {
+      "customerID": "f9ed7a53-3083-4eb6-8dd6-4a76a195cee4",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "street": "245 Knyaz Alexander I St.",
+      "postalCode": 45125
+    },
+    {
+      "customerID": "02fb747e-e9cb-4432-a1d5-8f173ca5f429",
+      "city": "Subotica",
+      "country": "Serbia",
+      "street": "596 Korzo St.",
+      "postalCode": 69830
+    },
+    {
+      "customerID": "9ea54303-9bef-470b-b418-5321b966b1db",
+      "city": "Bucharest",
+      "country": "Romania",
+      "street": "584 Bulevardul Magheru",
+      "postalCode": 92088
+    },
+    {
+      "customerID": "6f03c068-04a0-416c-8137-fbb974f2181b",
+      "city": "The Hague",
+      "country": "Netherlands",
+      "street": "906 Grote Marktstraat",
+      "postalCode": 14774
+    },
+    {
+      "customerID": "af2215e7-fed3-4a25-9771-9cf5bc4de218",
+      "city": "Vienna",
+      "country": "Austria",
+      "street": "279 Mariahilfer Strasse",
+      "postalCode": 25018
+    },
+    {
+      "customerID": "8efe1293-a178-41d4-8154-c80d8bf3ab06",
+      "city": "Berlin",
+      "country": "Germany",
+      "street": "870 Alexanderplatz",
+      "postalCode": 50249
+    },
+    {
+      "customerID": "d2d93bda-ea8d-4c11-a526-79b7644c9b5a",
+      "city": "Žilina",
+      "country": "Slovakia",
+      "street": "201 Mariánske námestie",
+      "postalCode": 73577
+    },
+    {
+      "customerID": "339127ab-2a54-4d00-8a0b-d6e9601bcdd5",
+      "city": "The Hague",
+      "country": "Netherlands",
+      "street": "962 Grote Marktstraat",
+      "postalCode": 62838
+    },
+    {
+      "customerID": "73c73047-1ad2-47fa-a06e-28833392626c",
+      "city": "Shenzhen",
+      "country": "China",
+      "street": "495 Dongmen Rd.",
+      "postalCode": 67005
+    },
+    {
+      "customerID": "fe90fa4c-695c-4b25-b237-395de79e1cb4",
+      "city": "Beijing",
+      "country": "China",
+      "street": "87 Wangfujing St.",
+      "postalCode": 85127
+    },
+    {
+      "customerID": "ef4c7bdf-a423-4846-b869-9aa80ef97e88",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "street": "510 Knez Mihailova St.",
+      "postalCode": 41818
+    },
+    {
+      "customerID": "858adf18-3261-43c4-ac22-7f1857446e37",
+      "city": "London",
+      "country": "UK",
+      "street": "738 High St.",
+      "postalCode": 52678
+    },
+    {
+      "customerID": "e8ba9dcf-d5f9-4d00-9dad-3ab717114016",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "street": "362 Wenceslas Square",
+      "postalCode": 39732
+    },
+    {
+      "customerID": "3ef9eda3-84a9-4449-b241-9c2706833fe8",
+      "city": "Pécs",
+      "country": "Hungary",
+      "street": "837 Király St.",
+      "postalCode": 90607
+    },
+    {
+      "customerID": "1ce7e59e-afff-4570-9727-4348586f7250",
+      "city": "Manchester",
+      "country": "UK",
+      "street": "711 Deansgate.",
+      "postalCode": 56804
+    },
+    {
+      "customerID": "43ae7f98-d46d-41ff-b4fd-55c16decc04f",
+      "city": "Dublin",
+      "country": "Ireland",
+      "street": "823 Grafton St.",
+      "postalCode": 29689
+    },
+    {
+      "customerID": "45c88568-69ed-4151-97ea-1291a82e26bf",
+      "city": "Palermo",
+      "country": "Italy",
+      "street": "378 Via Maqueda",
+      "postalCode": 84704
+    },
+    {
+      "customerID": "fb46fe22-d339-4a3e-8b25-61c0dd43c738",
+      "city": "Oslo",
+      "country": "Norway",
+      "street": "5 Karl Johans gate",
+      "postalCode": 98778
+    },
+    {
+      "customerID": "ed9c6b9d-1353-4bbb-a226-d1cedce02906",
+      "city": "Žilina",
+      "country": "Slovakia",
+      "street": "37 Mariánske námestie",
+      "postalCode": 81641
+    },
+    {
+      "customerID": "307bad9b-b5d8-4ea1-a0c6-aa8710d1314d",
+      "city": "Innsbruck",
+      "country": "Austria",
+      "street": "807 Maria-Theresien-Strasse",
+      "postalCode": 36166
+    },
+    {
+      "customerID": "5cf56cbd-7a7f-4dcb-8040-fefac4a2057f",
+      "city": "Brisbane",
+      "country": "Australia",
+      "street": "310 Queen St.",
+      "postalCode": 46651
+    },
+    {
+      "customerID": "8fd842ef-4bb1-4726-be3a-5bc4d4c397e1",
+      "city": "Pretoria",
+      "country": "South Africa",
+      "street": "948 Church St.",
+      "postalCode": 43085
+    },
+    {
+      "customerID": "ce777863-56ab-4850-a6ab-85f9e17c6dbe",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "street": "310 Knyaz Alexander I St.",
+      "postalCode": 60599
+    },
+    {
+      "customerID": "6be7ea73-e78c-44d5-bd09-43bfda402f84",
+      "city": "Palermo",
+      "country": "Italy",
+      "street": "662 Via Maqueda",
+      "postalCode": 62728
+    },
+    {
+      "customerID": "3dea1b37-070c-44f6-a2cc-9a148417b179",
+      "city": "Turin",
+      "country": "Italy",
+      "street": "674 Via Roma",
+      "postalCode": 39916
+    },
+    {
+      "customerID": "2790d3e3-eb20-4aac-969d-4136e3199846",
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "street": "821 Nevsky Prospekt",
+      "postalCode": 13414
+    },
+    {
+      "customerID": "ea036fa3-e9a3-42ef-81b1-9a04c3f33886",
+      "city": "Bern",
+      "country": "Switzerland",
+      "street": "330 Marktgasse",
+      "postalCode": 50020
+    },
+    {
+      "customerID": "246472d4-4108-43e1-8ddd-70ca0d8a9ed6",
+      "city": "Krakow",
+      "country": "Poland",
+      "street": "769 Floriańska St.",
+      "postalCode": 83920
+    },
+    {
+      "customerID": "edd1d0ae-90ec-4955-8612-c904f86c3188",
+      "city": "Naples",
+      "country": "Italy",
+      "street": "724 Via Toledo",
+      "postalCode": 79779
+    },
+    {
+      "customerID": "5f4ee06d-b0a7-4e45-a7cf-9efdd6690e0f",
+      "city": "Moscow",
+      "country": "Russia",
+      "street": "736 Tverskaya St.",
+      "postalCode": 62899
+    },
+    {
+      "customerID": "f562a14e-8228-4518-8cb5-6f50ac6c65ed",
+      "city": "Shkodër",
+      "country": "Albania",
+      "street": "884 Rruga 13 Dhjetori",
+      "postalCode": 34986
+    },
+    {
+      "customerID": "031ffc3f-8a8d-4a27-8ffe-c8f14aeda7a4",
+      "city": "Oslo",
+      "country": "Norway",
+      "street": "864 Karl Johans gate",
+      "postalCode": 76105
+    },
+    {
+      "customerID": "896aa676-d90a-45bf-9139-4c1a1dbfdbc0",
+      "city": "Shenzhen",
+      "country": "China",
+      "street": "905 Dongmen Rd.",
+      "postalCode": 35265
+    },
+    {
+      "customerID": "f5ef4cd0-d253-465b-bd2a-56c36627d760",
+      "city": "Monterrey",
+      "country": "Mexico",
+      "street": "800 Morelos Ave.",
+      "postalCode": 50415
+    },
+    {
+      "customerID": "cc2d5636-879e-4c1c-b245-789c753a9aea",
+      "city": "Tijuana",
+      "country": "Mexico",
+      "street": "482 Revolución Ave.",
+      "postalCode": 36146
+    },
+    {
+      "customerID": "c3fa54cb-b9a8-405b-aeb9-8eb5295ea5a2",
+      "city": "Montreal",
+      "country": "Canada",
+      "street": "258 Saint Catherine St.",
+      "postalCode": 82256
+    },
+    {
+      "customerID": "623c8a78-f776-43b9-9162-edf53985ca4b",
+      "city": "Adelaide",
+      "country": "Australia",
+      "street": "141 Rundle St.",
+      "postalCode": 33015
+    },
+    {
+      "customerID": "345f7f82-4c77-4560-958c-46cc91bceceb",
+      "city": "Maribor",
+      "country": "Slovenia",
+      "street": "733 Slovenska St.",
+      "postalCode": 58015
+    },
+    {
+      "customerID": "226560da-37c3-49ec-86b1-8e595be5671d",
+      "city": "Plzen",
+      "country": "Czech Republic",
+      "street": "240 Americká St.",
+      "postalCode": 59812
+    },
+    {
+      "customerID": "ff7166c7-c171-4f02-bd40-2eb52baceda7",
+      "city": "Tokyo",
+      "country": "Japan",
+      "street": "147 Shibuya",
+      "postalCode": 94901
+    },
+    {
+      "customerID": "d281181d-f8fe-4aef-b473-2246faf096a5",
+      "city": "Marseille",
+      "country": "France",
+      "street": "49 La Canebière",
+      "postalCode": 71898
+    },
+    {
+      "customerID": "9e681d84-a7de-4808-baa7-e5ad0e32d2e5",
+      "city": "Salzburg",
+      "country": "Austria",
+      "street": "663 Getreidegasse",
+      "postalCode": 22807
+    },
+    {
+      "customerID": "66068634-ecb5-4ff2-a972-08406316b74a",
+      "city": "Shenzhen",
+      "country": "China",
+      "street": "553 Dongmen Rd.",
+      "postalCode": 31363
+    },
+    {
+      "customerID": "53428a83-8591-4548-a553-c434ad76a61a",
+      "city": "Fortaleza",
+      "country": "Brazil",
+      "street": "475 Avenida Beira Mar",
+      "postalCode": 19101
+    },
+    {
+      "customerID": "897a4565-870f-4d88-bbee-292f91623aa4",
+      "city": "Plzen",
+      "country": "Czech Republic",
+      "street": "666 Americká St.",
+      "postalCode": 82215
+    },
+    {
+      "customerID": "29c30c95-8c70-4eaa-bda9-752b8a489d32",
+      "city": "Poznan",
+      "country": "Poland",
+      "street": "453 Półwiejska St.",
+      "postalCode": 66963
+    },
+    {
+      "customerID": "cbc79cac-2454-4b0c-9997-1928381e090c",
+      "city": "Burgas",
+      "country": "Bulgaria",
+      "street": "5 Aleksandrovska St.",
+      "postalCode": 73503
+    },
+    {
+      "customerID": "1efb730d-9b12-4572-a781-4840f37b008f",
+      "city": "Budapest",
+      "country": "Hungary",
+      "street": "204 Andrássy Ave.",
+      "postalCode": 95166
+    },
+    {
+      "customerID": "86276779-611e-47d6-b36f-4ddccf657d68",
+      "city": "Poznan",
+      "country": "Poland",
+      "street": "645 Półwiejska St.",
+      "postalCode": 82059
+    },
+    {
+      "customerID": "e70fccce-93cf-48e5-b4bb-866377b0a3bc",
+      "city": "Fortaleza",
+      "country": "Brazil",
+      "street": "305 Avenida Beira Mar",
+      "postalCode": 60526
+    },
+    {
+      "customerID": "4d8a6764-c2cd-4806-b539-fb9b1d82fd8d",
+      "city": "Ostrava",
+      "country": "Czech Republic",
+      "street": "647 Stodolní St.",
+      "postalCode": 79502
+    },
+    {
+      "customerID": "cc8cd08d-b583-454d-999b-84f54fe55553",
+      "city": "Glasgow",
+      "country": "UK",
+      "street": "383 Sauchiehall St.",
+      "postalCode": 33944
+    },
+    {
+      "customerID": "3237aaab-04ca-458e-a8d1-d67222da1cdc",
+      "city": "Budapest",
+      "country": "Hungary",
+      "street": "805 Andrássy Ave.",
+      "postalCode": 49845
+    },
+    {
+      "customerID": "d2d441cc-4872-4bd7-be7f-84650d206390",
+      "city": "Odense",
+      "country": "Denmark",
+      "street": "531 Vestergade",
+      "postalCode": 60090
+    },
+    {
+      "customerID": "a794cbea-a088-408e-8e22-b9b9ac0fb430",
+      "city": "Oslo",
+      "country": "Norway",
+      "street": "64 Karl Johans gate",
+      "postalCode": 46335
+    },
+    {
+      "customerID": "35aedb35-75cb-4442-ae0c-ee83b04b2d86",
+      "city": "Fier",
+      "country": "Albania",
+      "street": "917 Bulevardi Dëshmorët e Kombit",
+      "postalCode": 66590
+    },
+    {
+      "customerID": "92a30c91-6996-4e6e-8f3a-1a60e13caa0d",
+      "city": "Odense",
+      "country": "Denmark",
+      "street": "760 Vestergade",
+      "postalCode": 15574
+    },
+    {
+      "customerID": "ce9467d9-3aea-4cd9-849f-964b44d67926",
+      "city": "Madrid",
+      "country": "Spain",
+      "street": "530 Gran Via",
+      "postalCode": 71187
+    },
+    {
+      "customerID": "5662665b-fd18-4690-9ca7-6bd20c600edd",
+      "city": "Durrës",
+      "country": "Albania",
+      "street": "185 Bulevardi Dyrrah",
+      "postalCode": 60870
+    },
+    {
+      "customerID": "dba419a4-b075-41ee-a1c9-8b442158b87f",
+      "city": "Porto",
+      "country": "Portugal",
+      "street": "929 Rua de Santa Catarina",
+      "postalCode": 46012
+    }
+  ]
+}

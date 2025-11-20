@@ -1,0 +1,5044 @@
+{
+  "products": [
+    {
+      "id": "a923b706-0aaa-49b2-ad8d-21c97ff6fac7",
+      "supplierID": "00ac3d74-6c7d-4ef0-bf15-00851bf353ba",
+      "name": "Smart Home Hub",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a61e2b25-2f6e-468e-9f15-c51864db4133",
+      "supplierID": "00ac3d74-6c7d-4ef0-bf15-00851bf353ba",
+      "name": "Laptop Backpack",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f6ebdcab-fcbf-4121-8be8-dddc427c68e3",
+      "supplierID": "00ac3d74-6c7d-4ef0-bf15-00851bf353ba",
+      "name": "4K Monitor",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "73af1207-8269-4144-9954-7d97930b80dc",
+      "supplierID": "00ac3d74-6c7d-4ef0-bf15-00851bf353ba",
+      "name": "4K Monitor",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "adec6916-0f0e-45c9-a94d-08a20e312295",
+      "supplierID": "00ac3d74-6c7d-4ef0-bf15-00851bf353ba",
+      "name": "Soundbar",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bf60eb59-81d2-4f43-a8ac-7b06e8e9025b",
+      "supplierID": "575d53eb-30f7-41f0-8c82-6fe9405c1c32",
+      "name": "Bluetooth Headphones",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "aab74e58-fe91-4474-aa8c-54ae5ba6ff5b",
+      "supplierID": "575d53eb-30f7-41f0-8c82-6fe9405c1c32",
+      "name": "Digital Photo Frame",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7f6224b6-8a16-4d7b-8a06-c2f7b2ead887",
+      "supplierID": "575d53eb-30f7-41f0-8c82-6fe9405c1c32",
+      "name": "Smart Thermometer",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2c9baee4-eade-47bb-a09a-60948dbd8bfc",
+      "supplierID": "575d53eb-30f7-41f0-8c82-6fe9405c1c32",
+      "name": "LED Desk Lamp",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8c328e1d-2fe8-4ce1-a60e-9cdf53b75e9e",
+      "supplierID": "575d53eb-30f7-41f0-8c82-6fe9405c1c32",
+      "name": "Solar Charger",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6c49df84-459d-46f6-a864-92499f2a964c",
+      "supplierID": "8cb8d787-c305-4d65-a49a-ad78e5696a75",
+      "name": "Smart Home Hub",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "71a80246-2f1a-4073-bce9-37c4081a688e",
+      "supplierID": "8cb8d787-c305-4d65-a49a-ad78e5696a75",
+      "name": "Smart Thermometer",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e3cd0d84-76e5-484f-8a1b-a7ded3a64dad",
+      "supplierID": "8cb8d787-c305-4d65-a49a-ad78e5696a75",
+      "name": "Fitness Tracker",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0d9178e6-5a86-45bd-a6f3-64b501307d10",
+      "supplierID": "8cb8d787-c305-4d65-a49a-ad78e5696a75",
+      "name": "LED Desk Lamp",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2fe73de3-280e-425e-bdbc-4258cac03118",
+      "supplierID": "8cb8d787-c305-4d65-a49a-ad78e5696a75",
+      "name": "Smart Water Bottle",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0b3480f4-2441-4294-812e-6ddc70dc7fe6",
+      "supplierID": "8868567c-09bf-4475-97d6-93933e355036",
+      "name": "USB-C Hub",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0d5ffdf9-ed04-4021-8a39-521c9e62e9f1",
+      "supplierID": "8868567c-09bf-4475-97d6-93933e355036",
+      "name": "Noise Cancelling Earbuds",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b2122010-4265-4238-8f33-5e5f090e2d16",
+      "supplierID": "8868567c-09bf-4475-97d6-93933e355036",
+      "name": "Smart Doorbell",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "908ea325-101e-48d7-9c24-e3f53bcc0c53",
+      "supplierID": "8868567c-09bf-4475-97d6-93933e355036",
+      "name": "Bluetooth Tracker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b0309fc9-31b4-4968-9b09-10ac24595c72",
+      "supplierID": "8868567c-09bf-4475-97d6-93933e355036",
+      "name": "Coffee Maker",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "38741820-fe38-4e37-9803-12a5a310f09d",
+      "supplierID": "e2e683c5-eb97-4c15-8d89-a4f02388539b",
+      "name": "Portable Blender",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "718bf3b9-013f-477e-bd6a-f16348c64aee",
+      "supplierID": "e2e683c5-eb97-4c15-8d89-a4f02388539b",
+      "name": "Instant Pot",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e7fe6c2c-27de-44d5-8a5b-ffac8f8f3678",
+      "supplierID": "e2e683c5-eb97-4c15-8d89-a4f02388539b",
+      "name": "Smart Thermometer",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "aca9a5ff-ec67-4d8e-b2e4-6829440ed80b",
+      "supplierID": "e2e683c5-eb97-4c15-8d89-a4f02388539b",
+      "name": "Portable Speaker",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6dc3a85c-7532-4fe7-bef7-3d48e14c9a11",
+      "supplierID": "e2e683c5-eb97-4c15-8d89-a4f02388539b",
+      "name": "Noise Cancelling Earbuds",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "91b242e7-c2ba-4507-9bcc-c8826b2d1702",
+      "supplierID": "8ce21269-ecb6-43c1-a979-3c4702bf47b1",
+      "name": "Vacuum Cleaner",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "20634cd1-3ad0-4100-9845-f07c15c174dd",
+      "supplierID": "8ce21269-ecb6-43c1-a979-3c4702bf47b1",
+      "name": "LED Desk Lamp",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c21b953a-546e-422b-80f9-8fd2d2532c8d",
+      "supplierID": "8ce21269-ecb6-43c1-a979-3c4702bf47b1",
+      "name": "Smart Scale",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "818c3612-8547-4423-9aba-3bff3116b724",
+      "supplierID": "8ce21269-ecb6-43c1-a979-3c4702bf47b1",
+      "name": "Bluetooth Headphones",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7f2a3eee-4315-4d5d-9ceb-d55265dd3061",
+      "supplierID": "8ce21269-ecb6-43c1-a979-3c4702bf47b1",
+      "name": "4K Monitor",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3af4502c-46a7-4269-87f5-a3acd273f685",
+      "supplierID": "7d40b714-6652-4d24-bd45-b7b7f016546e",
+      "name": "Security Drone",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9ccb6849-ad7f-47ab-bda1-69c76c284766",
+      "supplierID": "7d40b714-6652-4d24-bd45-b7b7f016546e",
+      "name": "Smart Thermometer",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "aaf32d7c-16b1-4dac-a1ad-b14f4efc5cf9",
+      "supplierID": "7d40b714-6652-4d24-bd45-b7b7f016546e",
+      "name": "E-Reader",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2a8f0a10-303c-4f96-b013-aec839de1827",
+      "supplierID": "7d40b714-6652-4d24-bd45-b7b7f016546e",
+      "name": "Smartphone",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4234ea36-e4a5-4228-af25-cfa722b5c24e",
+      "supplierID": "7d40b714-6652-4d24-bd45-b7b7f016546e",
+      "name": "Smart Plug",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "95229ccc-3063-445d-8ae9-81c68e1faa46",
+      "supplierID": "36f17195-395f-443e-93a4-8ceee81c6106",
+      "name": "Wireless Charger",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a9b32922-4cd1-4e8c-98f1-5e6e98262b4d",
+      "supplierID": "36f17195-395f-443e-93a4-8ceee81c6106",
+      "name": "Wireless Charger",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6c0c8f87-1251-4495-af90-d38181bf339e",
+      "supplierID": "36f17195-395f-443e-93a4-8ceee81c6106",
+      "name": "Portable Blender",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a55aa561-fb87-4e92-a0f8-a41d32f13a4c",
+      "supplierID": "36f17195-395f-443e-93a4-8ceee81c6106",
+      "name": "Wireless Mouse",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "28be3dbd-7a99-406a-a6e9-ea365295e1a3",
+      "supplierID": "36f17195-395f-443e-93a4-8ceee81c6106",
+      "name": "Smart TV",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2f9e0d86-0c74-48b7-b409-060783b7b60a",
+      "supplierID": "8f6ab072-1a07-4d3f-8bf1-2853981374ca",
+      "name": "Massage Gun",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7ca54413-46eb-4447-ae32-f3da1cd79580",
+      "supplierID": "8f6ab072-1a07-4d3f-8bf1-2853981374ca",
+      "name": "Smartphone",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5364f92e-2512-43b8-ba25-4eb88be66ce9",
+      "supplierID": "8f6ab072-1a07-4d3f-8bf1-2853981374ca",
+      "name": "Tablet",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bafd5c7a-3896-415a-bdc6-210be5e21910",
+      "supplierID": "8f6ab072-1a07-4d3f-8bf1-2853981374ca",
+      "name": "Electric Kettle",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "08163fa7-0777-4f3f-9b75-16b527f4f9c2",
+      "supplierID": "8f6ab072-1a07-4d3f-8bf1-2853981374ca",
+      "name": "Electric Shaver",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fc15d420-5f47-41ae-9359-364a1a9713fd",
+      "supplierID": "7e5d642c-1e3b-498b-b673-5b9946bbff34",
+      "name": "Smart Door Lock",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1333fa56-c15a-44a5-97b0-d35e4487575c",
+      "supplierID": "7e5d642c-1e3b-498b-b673-5b9946bbff34",
+      "name": "Coffee Maker",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b491795d-9e63-40a6-970a-78677d16e864",
+      "supplierID": "7e5d642c-1e3b-498b-b673-5b9946bbff34",
+      "name": "Wireless Charger",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2b306b25-56cf-4e4e-a58c-8719b2dfc4ce",
+      "supplierID": "7e5d642c-1e3b-498b-b673-5b9946bbff34",
+      "name": "Laptop Stand",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c4c2e83a-aad9-42a7-9b13-8787893e3d7f",
+      "supplierID": "7e5d642c-1e3b-498b-b673-5b9946bbff34",
+      "name": "Smart Lock",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c0fe0393-a59c-42ca-a6fc-874ee3511139",
+      "supplierID": "eac0c347-12e0-4435-b902-c7e22e3c9dd5",
+      "name": "Portable Speaker",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ca68612a-645a-4d78-b506-620b28e30166",
+      "supplierID": "eac0c347-12e0-4435-b902-c7e22e3c9dd5",
+      "name": "Ergonomic Chair",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "057c0de6-8ef1-4045-9cf1-001bb3a83f3c",
+      "supplierID": "eac0c347-12e0-4435-b902-c7e22e3c9dd5",
+      "name": "Solar Charger",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "dfd83940-84c4-4c94-bffe-49cfa4fe98df",
+      "supplierID": "eac0c347-12e0-4435-b902-c7e22e3c9dd5",
+      "name": "Smartwatch",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "26fca1ac-dc0e-4016-9e56-923b2653527e",
+      "supplierID": "eac0c347-12e0-4435-b902-c7e22e3c9dd5",
+      "name": "Portable Charger",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "78a2bbb7-b7a9-4181-baad-d767200d427e",
+      "supplierID": "b87017cd-c720-43a3-acbe-46bfbfd6e4aa",
+      "name": "Portable Projector",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d7487513-74ec-499c-8085-d74dea20909d",
+      "supplierID": "b87017cd-c720-43a3-acbe-46bfbfd6e4aa",
+      "name": "Wireless Mouse",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a467708a-5b30-48a4-a705-00890e3e8278",
+      "supplierID": "b87017cd-c720-43a3-acbe-46bfbfd6e4aa",
+      "name": "Smart Thermostat",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cb3ff3de-6f89-4e6b-95b6-46bf2a903eef",
+      "supplierID": "b87017cd-c720-43a3-acbe-46bfbfd6e4aa",
+      "name": "Wireless Charger",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "be65f65a-d4e2-4e4f-a3c8-4fccf14effe8",
+      "supplierID": "b87017cd-c720-43a3-acbe-46bfbfd6e4aa",
+      "name": "Smart Door Lock",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "db29f19a-37ab-4c4f-b300-aa5439babbd6",
+      "supplierID": "fafebea0-8894-4744-b7de-6c66d5749740",
+      "name": "3D Printer",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "374c69d0-84e6-4761-be35-e5669257ae60",
+      "supplierID": "fafebea0-8894-4744-b7de-6c66d5749740",
+      "name": "Smart Glasses",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e3d73309-576b-4150-89e7-d394b344f1a6",
+      "supplierID": "fafebea0-8894-4744-b7de-6c66d5749740",
+      "name": "Smart Glasses",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "072b71bd-76e0-49cf-983f-42a5cd9f00bd",
+      "supplierID": "fafebea0-8894-4744-b7de-6c66d5749740",
+      "name": "Home Security Camera",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d77e85df-b0bb-4d33-aeb0-497a70436b74",
+      "supplierID": "fafebea0-8894-4744-b7de-6c66d5749740",
+      "name": "Smart Door Lock",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7d07663c-8739-41cf-bcfc-61351339560d",
+      "supplierID": "73ff2040-8d86-4932-bd3f-6441d648dcca",
+      "name": "Hair Dryer",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "dc1d17fb-a236-46fc-bd33-615877861f70",
+      "supplierID": "73ff2040-8d86-4932-bd3f-6441d648dcca",
+      "name": "Coffee Maker",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e96e1086-3e78-47c4-b9aa-2fc15631e9c5",
+      "supplierID": "73ff2040-8d86-4932-bd3f-6441d648dcca",
+      "name": "Wireless Charger",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "563348e6-b93b-42ef-8cda-db84a279e0f1",
+      "supplierID": "73ff2040-8d86-4932-bd3f-6441d648dcca",
+      "name": "Smartwatch",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "77200e78-82c4-42b8-ba84-1bca79faeea6",
+      "supplierID": "73ff2040-8d86-4932-bd3f-6441d648dcca",
+      "name": "Fitness Tracker",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "da385d4c-1518-48a4-979d-c2295e293ece",
+      "supplierID": "5bd1a017-9b6f-45a2-93e5-88e2d9668962",
+      "name": "Smart Thermometer",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "11659274-2bfd-43dc-b80d-9577c7dc0489",
+      "supplierID": "5bd1a017-9b6f-45a2-93e5-88e2d9668962",
+      "name": "Gaming Keyboard",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "478fc667-0e1a-44ad-aeb4-187f2d20a56e",
+      "supplierID": "5bd1a017-9b6f-45a2-93e5-88e2d9668962",
+      "name": "Smart Glasses",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9d30dc0f-f7f9-4381-afbe-998ec8897742",
+      "supplierID": "5bd1a017-9b6f-45a2-93e5-88e2d9668962",
+      "name": "Wireless Earbuds",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "86ea391f-dab0-446e-99ca-7d693a301659",
+      "supplierID": "5bd1a017-9b6f-45a2-93e5-88e2d9668962",
+      "name": "E-Reader",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e180123d-876f-4dd1-a337-6f7c7dc9bffb",
+      "supplierID": "2bfcfc05-5e10-447d-a1c4-8a61a383ffac",
+      "name": "Hair Dryer",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ee7f9588-3726-4485-8fde-3866d9513b7a",
+      "supplierID": "2bfcfc05-5e10-447d-a1c4-8a61a383ffac",
+      "name": "Tablet",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7c5a2926-d51e-4866-b3fc-9e10267e8a39",
+      "supplierID": "2bfcfc05-5e10-447d-a1c4-8a61a383ffac",
+      "name": "Smart Scale",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "172bd019-b082-450e-8b79-77b037630db3",
+      "supplierID": "2bfcfc05-5e10-447d-a1c4-8a61a383ffac",
+      "name": "Mechanical Keyboard",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b7dffeb5-33fd-43e3-8d81-8ddccab196c2",
+      "supplierID": "2bfcfc05-5e10-447d-a1c4-8a61a383ffac",
+      "name": "Bluetooth Speaker",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0c35a7db-d048-4d08-8c1c-bb358357448b",
+      "supplierID": "572bdbbb-02c0-4974-b4b9-2ec9519dce7f",
+      "name": "USB-C Hub",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5e3a2b6a-e119-4789-b4ec-03270b297e8e",
+      "supplierID": "572bdbbb-02c0-4974-b4b9-2ec9519dce7f",
+      "name": "Hair Dryer",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "35cb3d20-ae3b-4e8a-89fc-6e46c86d9a9d",
+      "supplierID": "572bdbbb-02c0-4974-b4b9-2ec9519dce7f",
+      "name": "Digital Camera",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "16a14304-2253-4b84-890c-7a54fa3233c0",
+      "supplierID": "572bdbbb-02c0-4974-b4b9-2ec9519dce7f",
+      "name": "Portable Charger",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8c8aa579-53dd-45a0-a93e-e8737131a91f",
+      "supplierID": "572bdbbb-02c0-4974-b4b9-2ec9519dce7f",
+      "name": "Streaming Device",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cba5c8ba-97fd-4132-a39d-b0d2cba619b2",
+      "supplierID": "fcb99536-875d-4d0f-a91d-22d55eef0f2e",
+      "name": "Wireless Charger",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f08e697d-d5b8-4529-9c87-18a5a50f4212",
+      "supplierID": "fcb99536-875d-4d0f-a91d-22d55eef0f2e",
+      "name": "Bluetooth Speaker",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "871fa65a-aa02-4f6a-a28b-bd6d2167b22d",
+      "supplierID": "fcb99536-875d-4d0f-a91d-22d55eef0f2e",
+      "name": "Electric Toothbrush",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a016c92b-68fc-438d-840f-e6a15c1aa2c2",
+      "supplierID": "fcb99536-875d-4d0f-a91d-22d55eef0f2e",
+      "name": "Smart Water Bottle",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d0925405-413b-4269-b497-5257a5ec82dc",
+      "supplierID": "fcb99536-875d-4d0f-a91d-22d55eef0f2e",
+      "name": "Digital Camera",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a1869b01-f797-4917-9954-c8ff9e47f6ac",
+      "supplierID": "794569a2-1c1f-487e-b830-437260eaa6d6",
+      "name": "Wireless Router",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ea6bc814-eb28-49dd-95a4-d459b85f2b93",
+      "supplierID": "794569a2-1c1f-487e-b830-437260eaa6d6",
+      "name": "Smartphone",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "99ac6e6e-a025-4d2a-8412-cd8e19185859",
+      "supplierID": "794569a2-1c1f-487e-b830-437260eaa6d6",
+      "name": "Portable Blender",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b92e4e11-324a-4a46-9b20-c298f80a0155",
+      "supplierID": "794569a2-1c1f-487e-b830-437260eaa6d6",
+      "name": "Bluetooth Tracker",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d612226f-dddd-495d-a3f3-1c41332fc7f5",
+      "supplierID": "794569a2-1c1f-487e-b830-437260eaa6d6",
+      "name": "Fitness Bike",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ee11c4c4-9f03-48e2-8acf-76dcae201d6e",
+      "supplierID": "2edc2178-af7c-4e72-bc33-19c0bbb62f40",
+      "name": "Blender",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "83791032-c28b-499e-8bd3-ef70b30f8d7e",
+      "supplierID": "2edc2178-af7c-4e72-bc33-19c0bbb62f40",
+      "name": "Robot Vacuum",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f8c9f575-a7c5-45c9-8f66-83d1ab77f828",
+      "supplierID": "2edc2178-af7c-4e72-bc33-19c0bbb62f40",
+      "name": "Laptop Backpack",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "24ff7d50-540e-402c-8a2f-68c9648a983c",
+      "supplierID": "2edc2178-af7c-4e72-bc33-19c0bbb62f40",
+      "name": "Smart Water Bottle",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c9b70e31-896e-4c9c-92c7-05dff78c9bfe",
+      "supplierID": "2edc2178-af7c-4e72-bc33-19c0bbb62f40",
+      "name": "3D Printer",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8084d973-cdd5-459e-b1db-8cd63e037790",
+      "supplierID": "db89b141-1f8c-40ee-83ec-da9e08b95351",
+      "name": "Gaming Keyboard",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "60af2ac3-0f4d-46a6-b350-2aba7acdcd24",
+      "supplierID": "db89b141-1f8c-40ee-83ec-da9e08b95351",
+      "name": "Vacuum Cleaner",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "49768b4f-7237-4aeb-af68-090148bce1fc",
+      "supplierID": "db89b141-1f8c-40ee-83ec-da9e08b95351",
+      "name": "Gaming Headset",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "02eab037-14e9-4694-808a-b1e5763aaafc",
+      "supplierID": "db89b141-1f8c-40ee-83ec-da9e08b95351",
+      "name": "Laptop Backpack",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "02ee412f-8958-4c6e-8b9e-ae7b529da4c0",
+      "supplierID": "db89b141-1f8c-40ee-83ec-da9e08b95351",
+      "name": "Blender",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8180ca8b-385c-476b-b709-8e9d76f381bc",
+      "supplierID": "c9d6b752-5b41-4824-ab6e-22448ae40cea",
+      "name": "Massage Gun",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "377aada7-50fd-488c-872a-22423b90d433",
+      "supplierID": "c9d6b752-5b41-4824-ab6e-22448ae40cea",
+      "name": "Smart Door Lock",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "20ec70cb-d682-4ed9-a21a-1e1955fddd81",
+      "supplierID": "c9d6b752-5b41-4824-ab6e-22448ae40cea",
+      "name": "Smart Glasses",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6c9d96e7-304d-401b-b760-c59d48f7aea6",
+      "supplierID": "c9d6b752-5b41-4824-ab6e-22448ae40cea",
+      "name": "Smart TV",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0a593007-c861-4cfc-bce6-4547cca68de0",
+      "supplierID": "c9d6b752-5b41-4824-ab6e-22448ae40cea",
+      "name": "Wireless Earbuds",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2b072c60-9a64-4476-83c3-995005d566ff",
+      "supplierID": "2df7d9e1-b6e4-4c6c-865a-35d91d4ac6d1",
+      "name": "Smart Thermostat",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "73802a92-fa84-4399-b0f3-f5a26d1932db",
+      "supplierID": "2df7d9e1-b6e4-4c6c-865a-35d91d4ac6d1",
+      "name": "Fitness Bike",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "77454b92-b541-40ec-80e1-c30b95d2214e",
+      "supplierID": "2df7d9e1-b6e4-4c6c-865a-35d91d4ac6d1",
+      "name": "Streaming Device",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b47fb608-2528-4402-a82b-fe94c8947521",
+      "supplierID": "2df7d9e1-b6e4-4c6c-865a-35d91d4ac6d1",
+      "name": "Coffee Maker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b8dd008b-2d9e-4ca2-94b6-a4947486b3bd",
+      "supplierID": "2df7d9e1-b6e4-4c6c-865a-35d91d4ac6d1",
+      "name": "Action Camera",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6e26a931-b78b-49ca-8cb9-d1a05235a5cc",
+      "supplierID": "00b663bb-b233-423c-95b3-0a95fdc26ea2",
+      "name": "Smart Door Lock",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e22126f6-74f9-45b5-85c3-eb8315196597",
+      "supplierID": "00b663bb-b233-423c-95b3-0a95fdc26ea2",
+      "name": "4K Monitor",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "db67315c-ea95-48b9-983c-73c1b3312f5e",
+      "supplierID": "00b663bb-b233-423c-95b3-0a95fdc26ea2",
+      "name": "USB-C Hub",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c11992da-557c-4441-ab8f-62f497118966",
+      "supplierID": "00b663bb-b233-423c-95b3-0a95fdc26ea2",
+      "name": "Wireless Router",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a0a27229-810d-4914-b63a-6f8f2be40ea2",
+      "supplierID": "00b663bb-b233-423c-95b3-0a95fdc26ea2",
+      "name": "Electric Kettle",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5125e567-6b65-4655-a45f-3d7cb79582ea",
+      "supplierID": "0f458c9d-db90-419d-a5cf-d778a1df2021",
+      "name": "Fitness Tracker",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0088d6f0-0b2f-4132-b663-a36e7a8d4dac",
+      "supplierID": "0f458c9d-db90-419d-a5cf-d778a1df2021",
+      "name": "Electric Pressure Cooker",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bf0e98f0-1638-4ad0-ac86-51aec4dde16a",
+      "supplierID": "0f458c9d-db90-419d-a5cf-d778a1df2021",
+      "name": "WiFi Range Extender",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ec475dc2-dbf1-4c51-831a-94f7d164d7c8",
+      "supplierID": "0f458c9d-db90-419d-a5cf-d778a1df2021",
+      "name": "Vacuum Cleaner",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b0c32e73-03b8-41e6-ba00-389debf6dffe",
+      "supplierID": "0f458c9d-db90-419d-a5cf-d778a1df2021",
+      "name": "Portable Blender",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "021ee20d-aacc-479d-83bd-eca16b42c108",
+      "supplierID": "42f1062b-760e-4fb3-9480-2eecc57ed5ff",
+      "name": "Wireless Router",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4cfed76f-aaaa-44c7-983f-27078a4e36f0",
+      "supplierID": "42f1062b-760e-4fb3-9480-2eecc57ed5ff",
+      "name": "3D Printer",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "35d5e0ed-48ef-446f-afe5-59628b49dccf",
+      "supplierID": "42f1062b-760e-4fb3-9480-2eecc57ed5ff",
+      "name": "Smartwatch",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "78e207cd-046d-4166-b96b-e0c4c4f11976",
+      "supplierID": "42f1062b-760e-4fb3-9480-2eecc57ed5ff",
+      "name": "Smart Door Lock",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "486644ce-e40b-4c62-b03b-8ec1d5a54d18",
+      "supplierID": "42f1062b-760e-4fb3-9480-2eecc57ed5ff",
+      "name": "Smart Light Bulb",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b114ec71-6b79-4682-a3b4-810278fab1a6",
+      "supplierID": "e729f27e-ff1f-4192-9916-18070d5105ec",
+      "name": "Wireless Earbuds",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "aab0e4bf-b721-44b8-8abe-e03cc4ad7392",
+      "supplierID": "e729f27e-ff1f-4192-9916-18070d5105ec",
+      "name": "Gaming Headset",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3c713edd-e066-4042-83b7-36852b5f1f31",
+      "supplierID": "e729f27e-ff1f-4192-9916-18070d5105ec",
+      "name": "Hair Dryer",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ad8540ca-d530-432d-965a-0d036307e6ca",
+      "supplierID": "e729f27e-ff1f-4192-9916-18070d5105ec",
+      "name": "USB-C Hub",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "202d5ce1-429c-4090-9ba6-7d95aa7afae7",
+      "supplierID": "e729f27e-ff1f-4192-9916-18070d5105ec",
+      "name": "Ergonomic Chair",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fd09630e-7c0e-4f87-9975-6bf97de70289",
+      "supplierID": "922202b8-c06b-4c57-8d8f-d5fe198e577b",
+      "name": "Noise Cancelling Earbuds",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "73aba2e8-a66c-4b57-8d04-4f265fa28276",
+      "supplierID": "922202b8-c06b-4c57-8d8f-d5fe198e577b",
+      "name": "Gaming Headset",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "33e58b90-359e-415f-a2d7-9cda249680fe",
+      "supplierID": "922202b8-c06b-4c57-8d8f-d5fe198e577b",
+      "name": "External Hard Drive",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bf07cdad-565e-44ba-be99-bed8bec4fa5f",
+      "supplierID": "922202b8-c06b-4c57-8d8f-d5fe198e577b",
+      "name": "Security Drone",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5ecd0caa-900d-44e5-84ef-aafd3ccfb981",
+      "supplierID": "922202b8-c06b-4c57-8d8f-d5fe198e577b",
+      "name": "Smart Lock",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1cc9bdb4-c41c-4226-8873-c85c43cc05eb",
+      "supplierID": "4c829566-5277-482b-b8e2-d7ec328a23f9",
+      "name": "Smart Glasses",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "08fe3344-20cc-4638-9c7a-548b9b5b6862",
+      "supplierID": "4c829566-5277-482b-b8e2-d7ec328a23f9",
+      "name": "Hair Dryer",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7b308923-0256-4bea-81e8-a23a83292d8b",
+      "supplierID": "4c829566-5277-482b-b8e2-d7ec328a23f9",
+      "name": "E-Reader",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e69503c7-c9b2-4d56-b8b6-073d1bb3e55e",
+      "supplierID": "4c829566-5277-482b-b8e2-d7ec328a23f9",
+      "name": "Home Security Camera",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5ce09bf3-a6a9-487e-98d7-c476b0a4e23d",
+      "supplierID": "4c829566-5277-482b-b8e2-d7ec328a23f9",
+      "name": "Smart Water Bottle",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "385090db-8852-4c6d-b639-a80e7d544b53",
+      "supplierID": "5f45204c-ccf1-4e1f-adb1-be84614f5d0f",
+      "name": "Smart Glasses",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9627eed0-0814-48eb-abfa-64cdfb3c7b98",
+      "supplierID": "5f45204c-ccf1-4e1f-adb1-be84614f5d0f",
+      "name": "4K Monitor",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9cfae4fc-13e5-4815-b11b-a8eee2a2b947",
+      "supplierID": "5f45204c-ccf1-4e1f-adb1-be84614f5d0f",
+      "name": "Action Camera",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4608c52a-1e46-4f62-aaea-ba34ccc39808",
+      "supplierID": "5f45204c-ccf1-4e1f-adb1-be84614f5d0f",
+      "name": "Smart Lock",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c8be3a48-e5e2-4ae7-9524-e7a50f3cd511",
+      "supplierID": "5f45204c-ccf1-4e1f-adb1-be84614f5d0f",
+      "name": "Portable Speaker",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ca1e35bb-4fbc-45df-9a0a-19fd20412c3f",
+      "supplierID": "620eec23-f0e1-467c-8f69-a9769f59448f",
+      "name": "Smart Door Lock",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "36222f29-ac46-428d-bdbe-7c4e92d7a095",
+      "supplierID": "620eec23-f0e1-467c-8f69-a9769f59448f",
+      "name": "Electric Shaver",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ff6acfd3-ab27-45d7-a857-416ef0c454e5",
+      "supplierID": "620eec23-f0e1-467c-8f69-a9769f59448f",
+      "name": "Fitness Bike",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b07819f8-e9a3-48f2-a297-cb3a07f9bc0d",
+      "supplierID": "620eec23-f0e1-467c-8f69-a9769f59448f",
+      "name": "Streaming Device",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "51d7318d-5cfd-4219-bce4-e4bc06cf4133",
+      "supplierID": "620eec23-f0e1-467c-8f69-a9769f59448f",
+      "name": "Security Drone",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4c177383-1828-4aed-af91-3e75c7819207",
+      "supplierID": "b2d1a1a9-d5bb-4973-bbe4-9a605b6f0da4",
+      "name": "Electric Shaver",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1b15f6f9-8c88-4de6-86ed-6bb379d2412b",
+      "supplierID": "b2d1a1a9-d5bb-4973-bbe4-9a605b6f0da4",
+      "name": "Portable Charger",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a750d0ef-7309-4496-9670-777d4978ad40",
+      "supplierID": "b2d1a1a9-d5bb-4973-bbe4-9a605b6f0da4",
+      "name": "Electric Toothbrush",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "82b95b6c-e30e-4116-8e0c-28a154dd7a76",
+      "supplierID": "b2d1a1a9-d5bb-4973-bbe4-9a605b6f0da4",
+      "name": "Instant Pot",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d3438ade-d90c-40f7-8a48-94bcde6cfabd",
+      "supplierID": "b2d1a1a9-d5bb-4973-bbe4-9a605b6f0da4",
+      "name": "Smart Scale",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9be188e9-2dde-4d70-871f-03cde203e94b",
+      "supplierID": "827feee0-732f-4f07-9f1a-30fefbbbd5a1",
+      "name": "Smart Thermostat",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e0138fb3-4da5-442f-b615-e9abea9ebf84",
+      "supplierID": "827feee0-732f-4f07-9f1a-30fefbbbd5a1",
+      "name": "Gaming Headset",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e65980b6-10e9-4e9a-b690-4714ae335ccb",
+      "supplierID": "827feee0-732f-4f07-9f1a-30fefbbbd5a1",
+      "name": "Security Drone",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8c0a5deb-9609-4c39-bf67-f22808a8ef6a",
+      "supplierID": "827feee0-732f-4f07-9f1a-30fefbbbd5a1",
+      "name": "Hair Dryer",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d964f586-6504-4123-b6d8-31a2c50dab62",
+      "supplierID": "827feee0-732f-4f07-9f1a-30fefbbbd5a1",
+      "name": "Wireless Router",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0e9d30a0-6fa8-4f0b-8842-e9152dae1de0",
+      "supplierID": "89b9e025-f0f1-4fca-a43b-8399d1dc9bb9",
+      "name": "Wireless Mouse",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "82d7632f-5da8-48ba-8d87-c1f34b5cea9f",
+      "supplierID": "89b9e025-f0f1-4fca-a43b-8399d1dc9bb9",
+      "name": "Vacuum Cleaner",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "03527275-ea91-4089-8617-3f50e461abab",
+      "supplierID": "89b9e025-f0f1-4fca-a43b-8399d1dc9bb9",
+      "name": "Hair Dryer",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "86324e7b-05b3-4f7d-a5d7-d333cba98d1b",
+      "supplierID": "89b9e025-f0f1-4fca-a43b-8399d1dc9bb9",
+      "name": "Smart Doorbell",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "15d6af79-98b8-4dbf-bed1-a834604c0b0f",
+      "supplierID": "89b9e025-f0f1-4fca-a43b-8399d1dc9bb9",
+      "name": "Standing Desk",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ca1e81a3-7e61-468a-a0bd-a66f55f48bb0",
+      "supplierID": "8143e27e-43d3-49e7-ae0e-669506ab75db",
+      "name": "Portable Speaker",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d22b5677-0a3a-4596-8694-f9bd39785b29",
+      "supplierID": "8143e27e-43d3-49e7-ae0e-669506ab75db",
+      "name": "Electric Kettle",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ee7ca4d2-1e6d-48c4-b471-11b759730164",
+      "supplierID": "8143e27e-43d3-49e7-ae0e-669506ab75db",
+      "name": "Security Drone",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d0b2fd25-0e7c-4e01-ae2e-7f204cc16e7e",
+      "supplierID": "8143e27e-43d3-49e7-ae0e-669506ab75db",
+      "name": "Portable Speaker",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4db8501b-2005-41a0-b7c4-fc471733ce32",
+      "supplierID": "8143e27e-43d3-49e7-ae0e-669506ab75db",
+      "name": "Laptop Backpack",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c9abcf76-9eea-45a6-8487-33d19a019a55",
+      "supplierID": "7c1804f2-dfb1-4cde-ad65-a69392437b9d",
+      "name": "Smart Scale",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "19311824-f36f-4ddd-886c-803e729eae93",
+      "supplierID": "7c1804f2-dfb1-4cde-ad65-a69392437b9d",
+      "name": "Electric Scooter",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "360eeae9-e6ea-45a5-a61f-22888ae39528",
+      "supplierID": "7c1804f2-dfb1-4cde-ad65-a69392437b9d",
+      "name": "Wireless Mouse",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "11b525f5-8fa0-441f-a6f3-06edeec85c9c",
+      "supplierID": "7c1804f2-dfb1-4cde-ad65-a69392437b9d",
+      "name": "LED Desk Lamp",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0025e453-7ee5-4d65-8a5f-ce751974491f",
+      "supplierID": "7c1804f2-dfb1-4cde-ad65-a69392437b9d",
+      "name": "Instant Pot",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e2083807-0b4e-41fa-bb66-b211945f0af8",
+      "supplierID": "1c1a2277-974a-4943-9d5b-4e947f888bc4",
+      "name": "Smart Home Hub",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1401ac66-bede-4e03-9a71-ac4f04c3ffd9",
+      "supplierID": "1c1a2277-974a-4943-9d5b-4e947f888bc4",
+      "name": "Robot Vacuum",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "21b58708-c6cc-4daa-9bce-4d98b63c2b88",
+      "supplierID": "1c1a2277-974a-4943-9d5b-4e947f888bc4",
+      "name": "Fitness Tracker",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7a70abca-6fda-4e81-baf6-d283d1535027",
+      "supplierID": "1c1a2277-974a-4943-9d5b-4e947f888bc4",
+      "name": "Smart Light Bulb",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8cc6b29e-8a6b-4ff2-8bf2-42b27b25295d",
+      "supplierID": "1c1a2277-974a-4943-9d5b-4e947f888bc4",
+      "name": "E-Reader",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3582a4a2-396a-4a4c-a689-402e2494f0b2",
+      "supplierID": "a33ee7ad-a75d-43e8-b0b8-a57b6ff4f945",
+      "name": "Gaming Keyboard",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4b0a5f13-18ee-4427-8c72-c8fe7bd092a6",
+      "supplierID": "a33ee7ad-a75d-43e8-b0b8-a57b6ff4f945",
+      "name": "Smart Door Lock",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5975ddbf-047a-4721-b82f-2b7c545dda6d",
+      "supplierID": "a33ee7ad-a75d-43e8-b0b8-a57b6ff4f945",
+      "name": "USB-C Hub",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "92aa392e-f8d8-4f73-992e-0a4492a6827f",
+      "supplierID": "a33ee7ad-a75d-43e8-b0b8-a57b6ff4f945",
+      "name": "Bluetooth Speaker",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "85a0c82e-03f0-4596-afdb-e90db75f1bce",
+      "supplierID": "a33ee7ad-a75d-43e8-b0b8-a57b6ff4f945",
+      "name": "Electric Toothbrush",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4e03c203-23ca-4b5f-9691-0b331edb30a8",
+      "supplierID": "b0a73ffd-6b4a-4eba-b558-d3d13f91cf9d",
+      "name": "Hair Dryer",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4a2e691b-f149-4393-938d-a408c724af99",
+      "supplierID": "b0a73ffd-6b4a-4eba-b558-d3d13f91cf9d",
+      "name": "Hair Dryer",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bf8e5955-c18b-4cea-a5d2-d07714e1fe20",
+      "supplierID": "b0a73ffd-6b4a-4eba-b558-d3d13f91cf9d",
+      "name": "Vacuum Cleaner",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "53a47a8a-60a9-4db3-8388-6c21c2d4bfa6",
+      "supplierID": "b0a73ffd-6b4a-4eba-b558-d3d13f91cf9d",
+      "name": "Robot Vacuum",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5a8ca5db-b3ec-4921-877d-e9f6368827a1",
+      "supplierID": "b0a73ffd-6b4a-4eba-b558-d3d13f91cf9d",
+      "name": "Massage Gun",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d0501de6-03bf-44a5-9e44-7a073c48ae2e",
+      "supplierID": "91cc443e-4eea-4420-bdd6-75691ca7cce3",
+      "name": "Smart Plug",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "24927554-c674-49e0-a221-3f11665d38be",
+      "supplierID": "91cc443e-4eea-4420-bdd6-75691ca7cce3",
+      "name": "Robot Vacuum",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8b1a4922-5bd2-4049-ad06-def198c7d5a4",
+      "supplierID": "91cc443e-4eea-4420-bdd6-75691ca7cce3",
+      "name": "USB-C Hub",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "05f42920-3e6b-420f-b5b2-7f9acc28bab0",
+      "supplierID": "91cc443e-4eea-4420-bdd6-75691ca7cce3",
+      "name": "E-Reader",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "080b0c99-e19c-425c-a4e6-0ecb359117dc",
+      "supplierID": "91cc443e-4eea-4420-bdd6-75691ca7cce3",
+      "name": "Streaming Device",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1bb21b83-fa00-4df4-b839-4de845424592",
+      "supplierID": "65c74cc5-9244-4534-ae6d-dc6e33575aad",
+      "name": "Massage Gun",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9aafe1bb-0edf-49c8-8843-82d84df5a730",
+      "supplierID": "65c74cc5-9244-4534-ae6d-dc6e33575aad",
+      "name": "Electric Toothbrush",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6143b626-d954-4271-b9ba-44dfe9726b70",
+      "supplierID": "65c74cc5-9244-4534-ae6d-dc6e33575aad",
+      "name": "Portable Speaker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "19747a80-03e9-4020-9326-5115add1a074",
+      "supplierID": "65c74cc5-9244-4534-ae6d-dc6e33575aad",
+      "name": "Standing Desk",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5821e953-2aac-497a-96bf-16b926236e53",
+      "supplierID": "65c74cc5-9244-4534-ae6d-dc6e33575aad",
+      "name": "Streaming Device",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fa19e4d1-3550-49ee-8bb2-77a0a57f3802",
+      "supplierID": "1c98fc9d-ca2e-4a03-9f65-cb6a545410c8",
+      "name": "Smart Thermostat",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5df45c62-5975-49e9-a424-03c318930ceb",
+      "supplierID": "1c98fc9d-ca2e-4a03-9f65-cb6a545410c8",
+      "name": "Wireless Mouse",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8de5e88e-db76-4b0a-b7ff-9e522583f62f",
+      "supplierID": "1c98fc9d-ca2e-4a03-9f65-cb6a545410c8",
+      "name": "Action Camera",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0c416278-1472-48f1-a3d0-6a1a4b55a0b2",
+      "supplierID": "1c98fc9d-ca2e-4a03-9f65-cb6a545410c8",
+      "name": "Blender",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "052e5b24-c5e6-4a4b-a0b0-220297a75367",
+      "supplierID": "1c98fc9d-ca2e-4a03-9f65-cb6a545410c8",
+      "name": "Gaming Headset",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2663b73b-7e90-4eb1-ac62-737218df3f47",
+      "supplierID": "6f853730-7e0b-4854-8641-2d62e8321919",
+      "name": "Noise Cancelling Earbuds",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "079970af-05f7-4ab5-b9b0-eb7fbb4062c4",
+      "supplierID": "6f853730-7e0b-4854-8641-2d62e8321919",
+      "name": "Smart Light Bulb",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1cdff951-965a-40f4-8815-c3fdf637d1f3",
+      "supplierID": "6f853730-7e0b-4854-8641-2d62e8321919",
+      "name": "Smart Glasses",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fd10f483-d28c-4d51-99ac-8fdf75e9d8ae",
+      "supplierID": "6f853730-7e0b-4854-8641-2d62e8321919",
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "43747c59-4d4a-4c7e-b1a4-fca71e284766",
+      "supplierID": "6f853730-7e0b-4854-8641-2d62e8321919",
+      "name": "Massage Gun",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "18f3b6ad-c1a8-4793-a5d2-6c4b847b88e0",
+      "supplierID": "ee8f4ba1-bb73-44af-a20b-ee3589847bde",
+      "name": "External Hard Drive",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "024418b4-d1a2-4f7e-9076-725f75680ff7",
+      "supplierID": "ee8f4ba1-bb73-44af-a20b-ee3589847bde",
+      "name": "LED Desk Lamp",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "999412d3-68a6-4955-a769-58501c79048f",
+      "supplierID": "ee8f4ba1-bb73-44af-a20b-ee3589847bde",
+      "name": "Fitness Tracker",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e7a110e3-fdb4-4ed7-b040-cecb4e3213df",
+      "supplierID": "ee8f4ba1-bb73-44af-a20b-ee3589847bde",
+      "name": "Smart Thermostat",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3d9bd0d7-a60e-424f-b286-8f2f1bff6eda",
+      "supplierID": "ee8f4ba1-bb73-44af-a20b-ee3589847bde",
+      "name": "Blender",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c88b8e63-44f9-4d0b-a2e7-f5ba5a97be75",
+      "supplierID": "b6929d79-15cb-48bf-b8ae-56df15343c15",
+      "name": "Smart Thermometer",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "52b0a19a-c4bb-4f11-8d74-991530b953e3",
+      "supplierID": "b6929d79-15cb-48bf-b8ae-56df15343c15",
+      "name": "Robot Vacuum",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a4dc2416-73b8-468e-aad1-c4125eef5038",
+      "supplierID": "b6929d79-15cb-48bf-b8ae-56df15343c15",
+      "name": "Smart Thermometer",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ee556c2a-f6ae-4eb8-9b44-57c3eac74e31",
+      "supplierID": "b6929d79-15cb-48bf-b8ae-56df15343c15",
+      "name": "Streaming Device",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "21771e94-6e4c-49de-a1e9-933ff030cf7f",
+      "supplierID": "b6929d79-15cb-48bf-b8ae-56df15343c15",
+      "name": "Smart Light Bulb",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "04dff0ae-2f5f-4038-986d-963b034b1f63",
+      "supplierID": "b5ab972c-dfeb-4864-be46-45a490288ca9",
+      "name": "LED Desk Lamp",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6d0adf1c-29ff-440b-b077-9398e830e0f3",
+      "supplierID": "b5ab972c-dfeb-4864-be46-45a490288ca9",
+      "name": "Instant Pot",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "301cd904-9e12-4fa3-9c55-a9eae5b6a107",
+      "supplierID": "b5ab972c-dfeb-4864-be46-45a490288ca9",
+      "name": "Air Purifier",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8011540d-a277-470d-a023-1612d5f2fad5",
+      "supplierID": "b5ab972c-dfeb-4864-be46-45a490288ca9",
+      "name": "3D Printer",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f8a780dd-9081-4e0f-8cc0-02c3b67b70af",
+      "supplierID": "b5ab972c-dfeb-4864-be46-45a490288ca9",
+      "name": "Smart Thermometer",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "55638d53-f104-48d8-9b48-ae10c39c5c6a",
+      "supplierID": "fec001f7-7958-456d-8324-d5682430ba7b",
+      "name": "3D Printer",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9ec60d0a-a7b4-4b4b-b51e-4d7871388830",
+      "supplierID": "fec001f7-7958-456d-8324-d5682430ba7b",
+      "name": "Tablet",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3f2e7a07-bde7-4d1e-ac3d-9dfc1e260244",
+      "supplierID": "fec001f7-7958-456d-8324-d5682430ba7b",
+      "name": "Blender",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8f74b704-be3b-4e1f-bf84-aee7fe897ccf",
+      "supplierID": "fec001f7-7958-456d-8324-d5682430ba7b",
+      "name": "Streaming Device",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "58f7814d-cc62-429d-b270-3979752682da",
+      "supplierID": "fec001f7-7958-456d-8324-d5682430ba7b",
+      "name": "Solar Charger",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cd7bd6fa-6408-458c-8105-1c5b562b007e",
+      "supplierID": "4605057d-6b79-4ffa-886f-3a836ff1b498",
+      "name": "4K Monitor",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9db8e981-927b-40d6-84a0-4a91f5f95658",
+      "supplierID": "4605057d-6b79-4ffa-886f-3a836ff1b498",
+      "name": "Gaming Keyboard",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "444193d1-399c-439f-aa35-caaae02afc91",
+      "supplierID": "4605057d-6b79-4ffa-886f-3a836ff1b498",
+      "name": "Action Camera",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ec518111-3b59-4cce-ab6a-3d75c9afc046",
+      "supplierID": "4605057d-6b79-4ffa-886f-3a836ff1b498",
+      "name": "E-Reader",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e3ec8698-5969-401a-bddc-58b11651d175",
+      "supplierID": "4605057d-6b79-4ffa-886f-3a836ff1b498",
+      "name": "Portable Speaker",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b2282a31-0d5d-43d3-80a9-39ea9de8f058",
+      "supplierID": "dfabde86-515c-4e42-b056-e93bb2d5a47e",
+      "name": "Portable Blender",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "136fba85-7208-4077-aebc-37cb1f8a6115",
+      "supplierID": "dfabde86-515c-4e42-b056-e93bb2d5a47e",
+      "name": "Smart Lock",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "827c9dcb-a6b4-4f30-949b-b294315964b6",
+      "supplierID": "dfabde86-515c-4e42-b056-e93bb2d5a47e",
+      "name": "Smart Home Hub",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d2efd074-5bee-4675-a590-4c7ecba675b7",
+      "supplierID": "dfabde86-515c-4e42-b056-e93bb2d5a47e",
+      "name": "Wireless Router",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1797b35c-7a9a-4899-97ca-c724c25dcf89",
+      "supplierID": "dfabde86-515c-4e42-b056-e93bb2d5a47e",
+      "name": "Smart Doorbell",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c0a776a6-3c6e-4f22-aaa9-6080cd4d97e5",
+      "supplierID": "4802a0a8-b860-49af-8803-42a603a139fc",
+      "name": "Laptop Backpack",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f71385c3-0fca-483f-a5ae-1526de93e795",
+      "supplierID": "4802a0a8-b860-49af-8803-42a603a139fc",
+      "name": "Wireless Router",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "48c4f0da-16ad-4a41-8b17-a96a3c4d4982",
+      "supplierID": "4802a0a8-b860-49af-8803-42a603a139fc",
+      "name": "Tablet",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b3cef779-f36a-4ee6-8bcd-ef2150a119d0",
+      "supplierID": "4802a0a8-b860-49af-8803-42a603a139fc",
+      "name": "Gaming Keyboard",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8516ad80-01c2-455e-9c67-455b44639735",
+      "supplierID": "4802a0a8-b860-49af-8803-42a603a139fc",
+      "name": "Mechanical Keyboard",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ef8ac2aa-87be-4091-a9cb-7165dff9f3f4",
+      "supplierID": "daa1ff6f-e9ca-41ac-8ed5-325921956cbc",
+      "name": "Ergonomic Chair",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "50ccd543-36c9-4a6d-92e7-ceec50f4ecb7",
+      "supplierID": "daa1ff6f-e9ca-41ac-8ed5-325921956cbc",
+      "name": "Smart Thermometer",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "731b7ed8-7b50-4b2a-b0e3-88082087e389",
+      "supplierID": "daa1ff6f-e9ca-41ac-8ed5-325921956cbc",
+      "name": "Smart Home Hub",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1a6a7c3e-4ebe-4057-bd87-e96ce27ef2da",
+      "supplierID": "daa1ff6f-e9ca-41ac-8ed5-325921956cbc",
+      "name": "WiFi Range Extender",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "502e5459-8885-42ce-8564-30b504f14107",
+      "supplierID": "daa1ff6f-e9ca-41ac-8ed5-325921956cbc",
+      "name": "Smart Plug",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "54104071-c2ed-4295-8f88-dfe0ed4035d1",
+      "supplierID": "0577c874-fcbe-4430-a785-ba3cd8c0390f",
+      "name": "Coffee Maker",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "721bdba8-905e-45d1-8497-5997a9fd3425",
+      "supplierID": "0577c874-fcbe-4430-a785-ba3cd8c0390f",
+      "name": "Electric Shaver",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "06958b7f-f726-46e2-8bdd-2c8932d54648",
+      "supplierID": "0577c874-fcbe-4430-a785-ba3cd8c0390f",
+      "name": "Air Purifier",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6bffcdcd-786e-4fec-b1bd-5cc236f4074b",
+      "supplierID": "0577c874-fcbe-4430-a785-ba3cd8c0390f",
+      "name": "Mechanical Keyboard",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0f3f69f0-b84c-40c9-a807-41d47336d557",
+      "supplierID": "0577c874-fcbe-4430-a785-ba3cd8c0390f",
+      "name": "Smart Thermostat",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8dc41188-7d11-47ed-a995-c61c6aa2c3ac",
+      "supplierID": "11e17769-1f41-4022-a764-2b39e7c49d3a",
+      "name": "Instant Pot",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "12a47917-7e9a-4d60-ae3a-75208e7da85b",
+      "supplierID": "11e17769-1f41-4022-a764-2b39e7c49d3a",
+      "name": "Instant Pot",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "988ca177-fdc9-454f-8d9e-8b199ac01e99",
+      "supplierID": "11e17769-1f41-4022-a764-2b39e7c49d3a",
+      "name": "E-Reader",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7f222a4b-7ee0-446e-a167-06daef5bc1db",
+      "supplierID": "11e17769-1f41-4022-a764-2b39e7c49d3a",
+      "name": "Wireless Mouse",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ce6ebc84-dd5c-46fa-af7f-7fb48e192d64",
+      "supplierID": "11e17769-1f41-4022-a764-2b39e7c49d3a",
+      "name": "4K Monitor",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d0c87759-e612-4751-b8ef-5deec869d38f",
+      "supplierID": "4f51e202-794f-4bd9-85e8-cb380ab29bde",
+      "name": "Smart Lock",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "69ee008b-4813-4b4b-ba57-5702f69d1a56",
+      "supplierID": "4f51e202-794f-4bd9-85e8-cb380ab29bde",
+      "name": "Coffee Maker",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a75ca37d-8519-4a98-82ea-f569130850ac",
+      "supplierID": "4f51e202-794f-4bd9-85e8-cb380ab29bde",
+      "name": "Smart Doorbell",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "44f6a88a-3cc3-4e20-9186-f6dcc75188ed",
+      "supplierID": "4f51e202-794f-4bd9-85e8-cb380ab29bde",
+      "name": "Smartwatch",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f409dd70-ba37-4c45-9440-d4d7b2982608",
+      "supplierID": "4f51e202-794f-4bd9-85e8-cb380ab29bde",
+      "name": "Bluetooth Speaker",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bdc3f658-aabd-4796-a531-e57e9f91f4cc",
+      "supplierID": "d2cf1ee4-1798-477d-9c42-5c31c2430a71",
+      "name": "USB-C Hub",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6304194e-4354-4b98-985e-cfd2c3684996",
+      "supplierID": "d2cf1ee4-1798-477d-9c42-5c31c2430a71",
+      "name": "Solar Charger",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e694d573-9425-41f4-9fc6-8bb52e92e91d",
+      "supplierID": "d2cf1ee4-1798-477d-9c42-5c31c2430a71",
+      "name": "Digital Camera",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "53da852e-9024-47f9-b7d9-33d2d04148f2",
+      "supplierID": "d2cf1ee4-1798-477d-9c42-5c31c2430a71",
+      "name": "Electric Shaver",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3bbb1758-d1a9-49fc-9624-75139c5fd573",
+      "supplierID": "d2cf1ee4-1798-477d-9c42-5c31c2430a71",
+      "name": "Smart Lock",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "44b846aa-47c3-4b28-993f-fe28f5a1e92b",
+      "supplierID": "6348c31d-1be4-4671-92c6-1f0c08c1c841",
+      "name": "Gaming Headset",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1fd60435-b5a7-4074-b076-6350c19da80f",
+      "supplierID": "6348c31d-1be4-4671-92c6-1f0c08c1c841",
+      "name": "Smartphone",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8c3a51d8-0f07-4b2e-8fcf-aea789f08178",
+      "supplierID": "6348c31d-1be4-4671-92c6-1f0c08c1c841",
+      "name": "Bluetooth Tracker",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "72051e0f-b33b-4cde-b23d-2e6f80ea64fa",
+      "supplierID": "6348c31d-1be4-4671-92c6-1f0c08c1c841",
+      "name": "Action Camera",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cd446f18-3942-493b-b695-ad69febaf6b1",
+      "supplierID": "6348c31d-1be4-4671-92c6-1f0c08c1c841",
+      "name": "Smart Scale",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7c46bce5-1448-49b0-ad31-44aea687b62b",
+      "supplierID": "d5a56450-d787-43de-bb4b-2fd57f688074",
+      "name": "Tablet",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fdaae197-0906-4ca3-bf5a-66f55ab52839",
+      "supplierID": "d5a56450-d787-43de-bb4b-2fd57f688074",
+      "name": "Instant Pot",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ee48a099-47e3-4def-9178-bfa0941bd885",
+      "supplierID": "d5a56450-d787-43de-bb4b-2fd57f688074",
+      "name": "Smartwatch",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9d395540-288f-49de-8027-59ba6bbf19a7",
+      "supplierID": "d5a56450-d787-43de-bb4b-2fd57f688074",
+      "name": "Smart Light Bulb",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "64dbe041-68af-4e36-a9ac-687b64933de4",
+      "supplierID": "d5a56450-d787-43de-bb4b-2fd57f688074",
+      "name": "Electric Shaver",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c7518550-6a42-4adf-aa61-145e1b77ee43",
+      "supplierID": "62c70a30-e7e9-4a2c-ae9b-fb6c7efc2beb",
+      "name": "Blender",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6b46e928-f88b-4b0b-b691-481aa15e282d",
+      "supplierID": "62c70a30-e7e9-4a2c-ae9b-fb6c7efc2beb",
+      "name": "Coffee Maker",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ee9c3939-e176-4355-aa88-8e8774973fc2",
+      "supplierID": "62c70a30-e7e9-4a2c-ae9b-fb6c7efc2beb",
+      "name": "Streaming Device",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "41d7de17-fceb-4f20-8f34-161c4448b521",
+      "supplierID": "62c70a30-e7e9-4a2c-ae9b-fb6c7efc2beb",
+      "name": "Smart TV",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a5ee61a6-8f89-454c-a4bc-59ddd00c71bb",
+      "supplierID": "62c70a30-e7e9-4a2c-ae9b-fb6c7efc2beb",
+      "name": "E-Reader",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7c61c87d-29f6-46ce-8206-6e0a0f034abb",
+      "supplierID": "6faa869d-aa9d-41c1-b51e-5ad79b8718a5",
+      "name": "Smart Thermometer",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "627db2a9-42ab-4634-8f34-5bcec9915ede",
+      "supplierID": "6faa869d-aa9d-41c1-b51e-5ad79b8718a5",
+      "name": "Digital Camera",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3b55164c-e39f-4e5a-84f3-939819c5399b",
+      "supplierID": "6faa869d-aa9d-41c1-b51e-5ad79b8718a5",
+      "name": "Wireless Earbuds",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cee7b92c-bba4-4bf2-8bf1-a9908d0527b6",
+      "supplierID": "6faa869d-aa9d-41c1-b51e-5ad79b8718a5",
+      "name": "Massage Gun",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ccae4ec7-bbaf-4fd9-90e7-76132886abb7",
+      "supplierID": "6faa869d-aa9d-41c1-b51e-5ad79b8718a5",
+      "name": "Coffee Maker",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c8f75917-cf5e-46a2-91ed-e5d2a6bc5a84",
+      "supplierID": "9937e71b-df36-49bd-b1a3-fe4da116af18",
+      "name": "Electric Scooter",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e5cc0030-864e-43ab-a58c-6802dbac4dc7",
+      "supplierID": "9937e71b-df36-49bd-b1a3-fe4da116af18",
+      "name": "Soundbar",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0e6794b3-7ad6-4274-9334-e9e326b0f14c",
+      "supplierID": "9937e71b-df36-49bd-b1a3-fe4da116af18",
+      "name": "Security Drone",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7f702fbd-5e29-4062-8183-53ec2a35c104",
+      "supplierID": "9937e71b-df36-49bd-b1a3-fe4da116af18",
+      "name": "Electric Kettle",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b551fa40-3a34-48c9-90ba-74830bfc23d4",
+      "supplierID": "9937e71b-df36-49bd-b1a3-fe4da116af18",
+      "name": "Tablet",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "50c5269a-0935-401f-b2c7-5882d2dac460",
+      "supplierID": "711d833a-d60e-4708-9606-6de8f12523a1",
+      "name": "Digital Photo Frame",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "14bf420b-8976-45c3-8f58-a520f5e0ebb6",
+      "supplierID": "711d833a-d60e-4708-9606-6de8f12523a1",
+      "name": "Bluetooth Speaker",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f9884340-96df-4fe9-a383-980b913c0d84",
+      "supplierID": "711d833a-d60e-4708-9606-6de8f12523a1",
+      "name": "Standing Desk",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "eee526fe-35e1-432d-b4af-210e533a5397",
+      "supplierID": "711d833a-d60e-4708-9606-6de8f12523a1",
+      "name": "Robot Vacuum",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1ff51ac8-196b-4775-8e43-9631e6f46d08",
+      "supplierID": "711d833a-d60e-4708-9606-6de8f12523a1",
+      "name": "3D Printer",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "00114d02-061b-49b1-a668-8df736129632",
+      "supplierID": "f0bb5262-c995-448d-ac21-677a0a4c34a4",
+      "name": "Wireless Charger",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3f5c2855-1aa6-44a8-99e4-115227e4d5c5",
+      "supplierID": "f0bb5262-c995-448d-ac21-677a0a4c34a4",
+      "name": "Air Purifier",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cb5834f0-6679-460a-a0dc-a506acb2aff0",
+      "supplierID": "f0bb5262-c995-448d-ac21-677a0a4c34a4",
+      "name": "Smart Scale",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b1a3475e-6a64-4223-9bf7-8ac393849240",
+      "supplierID": "f0bb5262-c995-448d-ac21-677a0a4c34a4",
+      "name": "Laptop Stand",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cab19246-6e9f-4b76-a90a-2f86f7936311",
+      "supplierID": "f0bb5262-c995-448d-ac21-677a0a4c34a4",
+      "name": "Hair Dryer",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "896695ec-4aec-451c-9370-87e044b149b8",
+      "supplierID": "dd3beec6-5ce3-41be-b2d4-441aacb32599",
+      "name": "Massage Gun",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "579d0dd8-cec5-4d5d-9d2b-e623c9cf5129",
+      "supplierID": "dd3beec6-5ce3-41be-b2d4-441aacb32599",
+      "name": "Smart Lock",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "dd44a4cb-1e19-4f94-ae87-33b837eb77f3",
+      "supplierID": "dd3beec6-5ce3-41be-b2d4-441aacb32599",
+      "name": "Smart Glasses",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "930383ab-4991-473f-a006-a67ca8cf1021",
+      "supplierID": "dd3beec6-5ce3-41be-b2d4-441aacb32599",
+      "name": "Streaming Device",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c62d1456-efcb-4831-bff6-43843b201882",
+      "supplierID": "dd3beec6-5ce3-41be-b2d4-441aacb32599",
+      "name": "External Hard Drive",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7d69e643-85a9-431c-8b54-e28071983828",
+      "supplierID": "e770e156-9d44-466b-bb26-3c8703b72681",
+      "name": "Blender",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "718e3c79-95b0-4150-a9aa-483fd9c37c52",
+      "supplierID": "e770e156-9d44-466b-bb26-3c8703b72681",
+      "name": "Smart Water Bottle",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9ebbeb4c-c20d-4019-917a-c7fbb8fed591",
+      "supplierID": "e770e156-9d44-466b-bb26-3c8703b72681",
+      "name": "Smart Plug",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1b97c017-046b-4b98-824b-b1627e50289b",
+      "supplierID": "e770e156-9d44-466b-bb26-3c8703b72681",
+      "name": "Laptop Stand",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "465bf585-18dd-4358-8abc-623bf38133c6",
+      "supplierID": "e770e156-9d44-466b-bb26-3c8703b72681",
+      "name": "Smart Scale",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "eaff53f3-4f55-4c00-8541-1bbcc641b35b",
+      "supplierID": "5304e18b-da8f-4fcf-87cd-189f9b83e62b",
+      "name": "Wireless Router",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d9b36529-e1fa-48ae-b52c-e033b15bd442",
+      "supplierID": "5304e18b-da8f-4fcf-87cd-189f9b83e62b",
+      "name": "Home Security Camera",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "82c359af-9b15-4a3e-b807-a42160c95106",
+      "supplierID": "5304e18b-da8f-4fcf-87cd-189f9b83e62b",
+      "name": "Smart Thermostat",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ad0af862-50ed-43b9-b53d-f006c696c7db",
+      "supplierID": "5304e18b-da8f-4fcf-87cd-189f9b83e62b",
+      "name": "Digital Camera",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e80a0444-0b68-4b7f-a4b9-7ae01bdb42c0",
+      "supplierID": "5304e18b-da8f-4fcf-87cd-189f9b83e62b",
+      "name": "Wireless Earbuds",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3ecbc135-695f-40ea-a661-b13d774c271a",
+      "supplierID": "5e3f29b7-d06c-4887-8edf-6a4eda849af9",
+      "name": "Smart TV",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "af1c7156-13dc-4e1c-b22f-bf1853b95d09",
+      "supplierID": "5e3f29b7-d06c-4887-8edf-6a4eda849af9",
+      "name": "Home Security Camera",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "63f2d09d-1aa0-44a0-ada3-1bd234b3eb46",
+      "supplierID": "5e3f29b7-d06c-4887-8edf-6a4eda849af9",
+      "name": "Bluetooth Headphones",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2bb551f9-4d43-4c22-b239-2e1bc234697c",
+      "supplierID": "5e3f29b7-d06c-4887-8edf-6a4eda849af9",
+      "name": "Vacuum Cleaner",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4cb87ab9-654a-4b48-aa62-d1b76e98425a",
+      "supplierID": "5e3f29b7-d06c-4887-8edf-6a4eda849af9",
+      "name": "Tablet",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8ec6c847-0e6e-4705-b7bf-8cd12257ff2b",
+      "supplierID": "5fd27862-596a-4d81-aa1f-ad4adde574da",
+      "name": "Wireless Mouse",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8b41a098-0890-41f7-8352-692fa32009b1",
+      "supplierID": "5fd27862-596a-4d81-aa1f-ad4adde574da",
+      "name": "Ergonomic Chair",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7a737770-1e69-4c0e-af78-b315216dda57",
+      "supplierID": "5fd27862-596a-4d81-aa1f-ad4adde574da",
+      "name": "Portable Blender",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fff082e5-b5e3-4606-8e8f-a749643c813a",
+      "supplierID": "5fd27862-596a-4d81-aa1f-ad4adde574da",
+      "name": "Wireless Mouse",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "011254e2-42b7-46fb-8da3-fa199d8c3b7c",
+      "supplierID": "5fd27862-596a-4d81-aa1f-ad4adde574da",
+      "name": "Noise Cancelling Headphones",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7433e46e-ebfe-4e5e-b138-594bd554ab8d",
+      "supplierID": "fde1d939-bb34-4279-93ce-f8745b6c259d",
+      "name": "WiFi Range Extender",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ff17c2f7-37b4-4f20-97fc-3502c18bbb1c",
+      "supplierID": "fde1d939-bb34-4279-93ce-f8745b6c259d",
+      "name": "Gaming Keyboard",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ba2e6337-a26b-459a-a029-1083650de281",
+      "supplierID": "fde1d939-bb34-4279-93ce-f8745b6c259d",
+      "name": "Smart Thermostat",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cf5d9e57-6850-424c-9aed-281d6720dc79",
+      "supplierID": "fde1d939-bb34-4279-93ce-f8745b6c259d",
+      "name": "Smart Lock",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "23e109b1-4054-442d-a9c4-215ab44e8437",
+      "supplierID": "fde1d939-bb34-4279-93ce-f8745b6c259d",
+      "name": "Hair Dryer",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0b38cb6d-ce79-41fc-a855-460bf6e5959e",
+      "supplierID": "c6c49b3f-e88b-47fc-82fd-2d79450e9885",
+      "name": "Gaming Keyboard",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e3c2f483-d145-44d0-be38-a23b8df11d05",
+      "supplierID": "c6c49b3f-e88b-47fc-82fd-2d79450e9885",
+      "name": "Tablet",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "273122d9-43e4-4f79-8ea1-54ca90936596",
+      "supplierID": "c6c49b3f-e88b-47fc-82fd-2d79450e9885",
+      "name": "External Hard Drive",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0adfd844-25dd-4cba-995b-157e2113fbc8",
+      "supplierID": "c6c49b3f-e88b-47fc-82fd-2d79450e9885",
+      "name": "Bluetooth Speaker",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e0e5e7f0-281e-4504-8ed8-a37e6d2e8c34",
+      "supplierID": "c6c49b3f-e88b-47fc-82fd-2d79450e9885",
+      "name": "Smart Lock",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bcb7973d-ae0f-4da8-99a3-3463721d96dd",
+      "supplierID": "813bf75e-ae6c-4747-b065-f512501cd2f0",
+      "name": "Smart Glasses",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6c95a6d1-76aa-4451-bbc8-fd9bbedf8a06",
+      "supplierID": "813bf75e-ae6c-4747-b065-f512501cd2f0",
+      "name": "Electric Kettle",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e83a8088-5161-484c-94f0-7f5aa139e119",
+      "supplierID": "813bf75e-ae6c-4747-b065-f512501cd2f0",
+      "name": "Robot Vacuum",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c1d8e2a9-644a-469c-a2b9-5d4e3029331e",
+      "supplierID": "813bf75e-ae6c-4747-b065-f512501cd2f0",
+      "name": "Hair Dryer",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8c2d2346-df24-419a-ac6c-d59d3a63bd32",
+      "supplierID": "813bf75e-ae6c-4747-b065-f512501cd2f0",
+      "name": "4K Monitor",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "42fdf4d8-17cf-405b-ab12-0dcef98c5182",
+      "supplierID": "3f09a846-1b0e-4e88-a469-caa53217467f",
+      "name": "Electric Kettle",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f0ff19d0-9479-4ef4-8a78-8d12e50162a7",
+      "supplierID": "3f09a846-1b0e-4e88-a469-caa53217467f",
+      "name": "WiFi Range Extender",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "df83f192-bdc2-44bd-a15b-f728ce85741e",
+      "supplierID": "3f09a846-1b0e-4e88-a469-caa53217467f",
+      "name": "Wireless Charger",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d6b49d99-eaf8-4fe4-a047-2d05b14c2e94",
+      "supplierID": "3f09a846-1b0e-4e88-a469-caa53217467f",
+      "name": "Fitness Tracker",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5008bc68-3e24-46e4-ac28-1d19b9bd2710",
+      "supplierID": "3f09a846-1b0e-4e88-a469-caa53217467f",
+      "name": "External Hard Drive",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0ba1784b-5c86-4a0f-b57b-cd8d6832e741",
+      "supplierID": "7b908e40-b263-41c4-b02a-e54877b0e5c2",
+      "name": "Wireless Earbuds",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bfde2229-1e23-41aa-803a-11dbf2fe364b",
+      "supplierID": "7b908e40-b263-41c4-b02a-e54877b0e5c2",
+      "name": "Smart Scale",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e037e4c9-3245-4851-8612-45dc4f24f8a5",
+      "supplierID": "7b908e40-b263-41c4-b02a-e54877b0e5c2",
+      "name": "Security Drone",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a300c10b-0378-4027-8493-7bd7a3707528",
+      "supplierID": "7b908e40-b263-41c4-b02a-e54877b0e5c2",
+      "name": "Blender",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7499e054-6850-4398-a0bc-57f67118d405",
+      "supplierID": "7b908e40-b263-41c4-b02a-e54877b0e5c2",
+      "name": "Bluetooth Headphones",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c9dd904e-b33a-4fff-b70d-99c852f51765",
+      "supplierID": "7bbe2fb1-d482-40d2-a7a1-d435d709edc6",
+      "name": "Portable Speaker",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d83ee959-eb65-44be-af9b-9f3dc8b1e1ec",
+      "supplierID": "7bbe2fb1-d482-40d2-a7a1-d435d709edc6",
+      "name": "Wireless Earbuds",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "abf3433f-c1fa-4455-873e-d31b78ec22d4",
+      "supplierID": "7bbe2fb1-d482-40d2-a7a1-d435d709edc6",
+      "name": "Smart Glasses",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a9d38941-6601-43e3-9fa3-3656ef36b27f",
+      "supplierID": "7bbe2fb1-d482-40d2-a7a1-d435d709edc6",
+      "name": "Wireless Earbuds",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cfdfee2d-308d-4b86-b412-9dc0989ea4e4",
+      "supplierID": "7bbe2fb1-d482-40d2-a7a1-d435d709edc6",
+      "name": "Smart Doorbell",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8202be53-02d0-466d-b0aa-c875871bdd42",
+      "supplierID": "fa2837b0-1a3c-4212-8533-1853a9a1fb86",
+      "name": "Air Purifier",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "31293431-4215-45b9-8624-79abef031a49",
+      "supplierID": "fa2837b0-1a3c-4212-8533-1853a9a1fb86",
+      "name": "Coffee Maker",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0b95fd56-7e39-479e-9f1e-027f1e5d9ae7",
+      "supplierID": "fa2837b0-1a3c-4212-8533-1853a9a1fb86",
+      "name": "Smartphone",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4eed3ea9-cd60-44a9-bfde-7418785a7372",
+      "supplierID": "fa2837b0-1a3c-4212-8533-1853a9a1fb86",
+      "name": "Smart Plug",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "85b7c062-4bf5-4519-b37b-ce2353c468c5",
+      "supplierID": "fa2837b0-1a3c-4212-8533-1853a9a1fb86",
+      "name": "Smart Home Hub",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "568f2d0c-5fc5-4ec9-8694-da8de079683a",
+      "supplierID": "a7ff3c6f-6e3b-4c2c-94f4-d6f3ee25d799",
+      "name": "Gaming Headset",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b3fb9dc0-0537-4594-ae88-e35fd5575c17",
+      "supplierID": "a7ff3c6f-6e3b-4c2c-94f4-d6f3ee25d799",
+      "name": "Smartwatch",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "05007ba8-785d-4b4c-9f30-b80f0a00c8f7",
+      "supplierID": "a7ff3c6f-6e3b-4c2c-94f4-d6f3ee25d799",
+      "name": "Laptop Stand",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "237ab342-4455-49d5-af4a-78f945d425c4",
+      "supplierID": "a7ff3c6f-6e3b-4c2c-94f4-d6f3ee25d799",
+      "name": "Smart TV",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c14f2db3-d90b-4cda-abea-9bfddbedfcbe",
+      "supplierID": "a7ff3c6f-6e3b-4c2c-94f4-d6f3ee25d799",
+      "name": "Mechanical Keyboard",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "37c6cf54-c4f0-470f-b6fc-eb76a059287f",
+      "supplierID": "dade3b40-d682-4129-b1b5-36786fcd710b",
+      "name": "Bluetooth Tracker",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "11e8b87b-754d-44a6-a8e0-70d2682181dd",
+      "supplierID": "dade3b40-d682-4129-b1b5-36786fcd710b",
+      "name": "Fitness Tracker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4c366e9c-2e73-493b-940f-f96b250ac143",
+      "supplierID": "dade3b40-d682-4129-b1b5-36786fcd710b",
+      "name": "Wireless Charger",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a3dde5f0-7d9f-49a5-af99-95ee23ccefbd",
+      "supplierID": "dade3b40-d682-4129-b1b5-36786fcd710b",
+      "name": "Streaming Device",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "609038c2-e2dc-4102-b87e-813a6adfa2d2",
+      "supplierID": "dade3b40-d682-4129-b1b5-36786fcd710b",
+      "name": "Soundbar",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "af79debc-5d0a-475f-ab3e-6173276e05f4",
+      "supplierID": "596124cc-b177-4781-bf76-e614aa71cbfc",
+      "name": "Bluetooth Speaker",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9e830eee-e29d-4028-b08a-37792b2ea943",
+      "supplierID": "596124cc-b177-4781-bf76-e614aa71cbfc",
+      "name": "Smart TV",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9ee518da-b786-44f2-b819-b76504db5df9",
+      "supplierID": "596124cc-b177-4781-bf76-e614aa71cbfc",
+      "name": "Electric Shaver",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "25881da8-5fb3-4f76-82bf-f028ef856b97",
+      "supplierID": "596124cc-b177-4781-bf76-e614aa71cbfc",
+      "name": "Electric Scooter",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "38c81a60-d225-4844-b787-7d3c5a68fb8b",
+      "supplierID": "596124cc-b177-4781-bf76-e614aa71cbfc",
+      "name": "Smart Home Hub",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2b62f6af-745f-4e22-84af-e35ec8de9fc6",
+      "supplierID": "3aa9f1e0-b748-4aaf-b663-915f2e4d3371",
+      "name": "Portable Projector",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "668765a1-9da0-4103-9100-5f86008ef2ae",
+      "supplierID": "3aa9f1e0-b748-4aaf-b663-915f2e4d3371",
+      "name": "Gaming Headset",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "50d417f5-5464-4dfb-ae9c-d8dc4304b38e",
+      "supplierID": "3aa9f1e0-b748-4aaf-b663-915f2e4d3371",
+      "name": "Electric Shaver",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "436a24e5-d726-400d-bae5-a97d216c73ba",
+      "supplierID": "3aa9f1e0-b748-4aaf-b663-915f2e4d3371",
+      "name": "WiFi Range Extender",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f472c75f-b57c-4b9b-8c58-322dda4a58c1",
+      "supplierID": "3aa9f1e0-b748-4aaf-b663-915f2e4d3371",
+      "name": "Smart Doorbell",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "83ac86b7-6099-49a9-9566-05da6b3abea9",
+      "supplierID": "4e5394cb-a3f0-49a4-980e-7f9237359293",
+      "name": "Portable Speaker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bfcbf227-347e-4243-80ee-41df8b9a1893",
+      "supplierID": "4e5394cb-a3f0-49a4-980e-7f9237359293",
+      "name": "Fitness Bike",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d9503a41-8aeb-4458-9c20-47125f4ab1c9",
+      "supplierID": "4e5394cb-a3f0-49a4-980e-7f9237359293",
+      "name": "Security Drone",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "78610de3-870e-4088-b500-b51fbf447f8c",
+      "supplierID": "4e5394cb-a3f0-49a4-980e-7f9237359293",
+      "name": "Streaming Device",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9efb3d7e-5e14-4b63-9dcb-c883643a01e6",
+      "supplierID": "4e5394cb-a3f0-49a4-980e-7f9237359293",
+      "name": "Wireless Charger",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3f760132-6fa7-49ed-9b8d-60b854a63d10",
+      "supplierID": "1b6f5184-a216-4513-83a3-dd1dc9d3cf1f",
+      "name": "Smart Lock",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4ed0b09c-b0d7-448c-9668-50947561f48c",
+      "supplierID": "1b6f5184-a216-4513-83a3-dd1dc9d3cf1f",
+      "name": "Soundbar",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "37da843a-5ce6-45ba-8c5d-f9a983d6b078",
+      "supplierID": "1b6f5184-a216-4513-83a3-dd1dc9d3cf1f",
+      "name": "Noise Cancelling Earbuds",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "52aae653-22a7-49ad-94dc-38ea92003ad5",
+      "supplierID": "1b6f5184-a216-4513-83a3-dd1dc9d3cf1f",
+      "name": "Smart Doorbell",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "016f8956-7a93-46c5-920e-43a2f72479ca",
+      "supplierID": "1b6f5184-a216-4513-83a3-dd1dc9d3cf1f",
+      "name": "Bluetooth Speaker",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a6d88b41-6c7b-4019-82b5-f46c81621ace",
+      "supplierID": "417a6214-5d4a-42c1-b27b-75c6f2f4efe9",
+      "name": "Smart Light Bulb",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "035be39d-84c3-4aa1-8b21-94e66b63f89f",
+      "supplierID": "417a6214-5d4a-42c1-b27b-75c6f2f4efe9",
+      "name": "Smart Doorbell",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f2983d6e-ec0b-4d00-b46f-cb775a2d5ded",
+      "supplierID": "417a6214-5d4a-42c1-b27b-75c6f2f4efe9",
+      "name": "Portable Blender",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "537403d8-0459-4294-8e70-9721a21650d9",
+      "supplierID": "417a6214-5d4a-42c1-b27b-75c6f2f4efe9",
+      "name": "External Hard Drive",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "30d37d0e-d1b7-40c5-b9ab-2835be76d455",
+      "supplierID": "417a6214-5d4a-42c1-b27b-75c6f2f4efe9",
+      "name": "Laptop Backpack",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3c89f4b6-9de1-4ac3-9a67-82cf0bf18906",
+      "supplierID": "019be5d5-5265-4bbd-92e9-30d97b391f36",
+      "name": "Smartwatch",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "72ab620a-184d-40d8-8fdc-0df26a028f3b",
+      "supplierID": "019be5d5-5265-4bbd-92e9-30d97b391f36",
+      "name": "Fitness Tracker",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0183394a-c46e-406f-9ea7-946a17db880b",
+      "supplierID": "019be5d5-5265-4bbd-92e9-30d97b391f36",
+      "name": "Wireless Router",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "db163186-ac1d-44ff-96aa-59211304fd54",
+      "supplierID": "019be5d5-5265-4bbd-92e9-30d97b391f36",
+      "name": "Smart Doorbell",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "339cf72e-d105-46a2-a3b2-fe32e0920b30",
+      "supplierID": "019be5d5-5265-4bbd-92e9-30d97b391f36",
+      "name": "Streaming Device",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a5ccc407-157d-436d-82fc-c1f7bbd66c5a",
+      "supplierID": "639ea033-0942-40f6-ba50-6dc8b7cc056c",
+      "name": "Electric Shaver",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3b3ac036-b26d-42f3-a4b1-8c45eab2062c",
+      "supplierID": "639ea033-0942-40f6-ba50-6dc8b7cc056c",
+      "name": "Bluetooth Speaker",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0547ead6-d855-43d5-b29d-a71f341fee41",
+      "supplierID": "639ea033-0942-40f6-ba50-6dc8b7cc056c",
+      "name": "Soundbar",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "38ced43c-0979-49d8-852c-afef2baeaf0e",
+      "supplierID": "639ea033-0942-40f6-ba50-6dc8b7cc056c",
+      "name": "Electric Toothbrush",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4ebe7397-9619-4163-b5ca-6522b7d90d66",
+      "supplierID": "639ea033-0942-40f6-ba50-6dc8b7cc056c",
+      "name": "Smart Doorbell",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "912ea1c4-9526-432f-b082-874372a3429b",
+      "supplierID": "1f3b9f77-5981-4665-91e2-cc656fcbe0cf",
+      "name": "Digital Camera",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a18172d0-2159-4a85-94e1-9ee3e13bf13d",
+      "supplierID": "1f3b9f77-5981-4665-91e2-cc656fcbe0cf",
+      "name": "E-Reader",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bb04168d-1354-4cfc-bd7e-9924c0d1cdd3",
+      "supplierID": "1f3b9f77-5981-4665-91e2-cc656fcbe0cf",
+      "name": "Portable Charger",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "82545cd0-4fd8-47ee-9721-1bdf5078edfa",
+      "supplierID": "1f3b9f77-5981-4665-91e2-cc656fcbe0cf",
+      "name": "LED Desk Lamp",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e8d78ce3-fc74-4e28-872d-69291c3ef994",
+      "supplierID": "1f3b9f77-5981-4665-91e2-cc656fcbe0cf",
+      "name": "Smart TV",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1abbcbd4-1d81-4c2b-97fa-8317bc6231cd",
+      "supplierID": "bcb60945-4df1-44cf-a01c-8c956efcd3e4",
+      "name": "Streaming Device",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "69aef3c7-f7d3-4627-9450-b9369152536c",
+      "supplierID": "bcb60945-4df1-44cf-a01c-8c956efcd3e4",
+      "name": "LED Desk Lamp",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a82996f5-bd5f-4278-a442-082e3bc5c398",
+      "supplierID": "bcb60945-4df1-44cf-a01c-8c956efcd3e4",
+      "name": "Blender",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1e10f184-ccbc-408e-b8f2-06a5e842389f",
+      "supplierID": "bcb60945-4df1-44cf-a01c-8c956efcd3e4",
+      "name": "Smart Scale",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "98bed203-284b-4255-a900-28e0492b3844",
+      "supplierID": "bcb60945-4df1-44cf-a01c-8c956efcd3e4",
+      "name": "Blender",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8e5d5b1c-78fc-478b-bb29-2cddc9ebe274",
+      "supplierID": "8330a12e-8a28-4155-b45f-729bfd7c693a",
+      "name": "Wireless Earbuds",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "807beccf-5e80-46cb-a682-2c503fcf8887",
+      "supplierID": "8330a12e-8a28-4155-b45f-729bfd7c693a",
+      "name": "Portable Speaker",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e3b5f92b-d3e7-4af8-8294-dfc1cd80a8e3",
+      "supplierID": "8330a12e-8a28-4155-b45f-729bfd7c693a",
+      "name": "Wireless Earbuds",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e1b30da5-8e9e-41d2-8e65-8a078e16ac5f",
+      "supplierID": "8330a12e-8a28-4155-b45f-729bfd7c693a",
+      "name": "Digital Camera",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c40a70ba-448e-4142-a821-28f410ff222a",
+      "supplierID": "8330a12e-8a28-4155-b45f-729bfd7c693a",
+      "name": "Standing Desk",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4beea165-3f18-424d-9743-66d249d411c3",
+      "supplierID": "db056f1e-14a7-452e-8026-f9f73473f07c",
+      "name": "E-Reader",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "496da5d8-f902-4f92-b21e-0f0e7e955053",
+      "supplierID": "db056f1e-14a7-452e-8026-f9f73473f07c",
+      "name": "Wireless Router",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0f6873ae-e1a3-4e90-bc7a-d4f6871ca621",
+      "supplierID": "db056f1e-14a7-452e-8026-f9f73473f07c",
+      "name": "Gaming Headset",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "113a38f7-8324-41e2-8a4d-47602ea6daf3",
+      "supplierID": "db056f1e-14a7-452e-8026-f9f73473f07c",
+      "name": "Smartphone",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fcf05caa-69ef-4ce0-99fc-368c086a09f0",
+      "supplierID": "db056f1e-14a7-452e-8026-f9f73473f07c",
+      "name": "LED Desk Lamp",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "29033a8e-cf49-412b-9542-26691eb29294",
+      "supplierID": "bcd9a3e2-58d5-4f6d-b08c-acab54d0ae12",
+      "name": "Smart Glasses",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b839cc6f-6532-483d-8658-bf84d4eefc96",
+      "supplierID": "bcd9a3e2-58d5-4f6d-b08c-acab54d0ae12",
+      "name": "Smart Thermostat",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ebda209d-f864-462a-a5a6-a9aca858f1a7",
+      "supplierID": "bcd9a3e2-58d5-4f6d-b08c-acab54d0ae12",
+      "name": "Laptop Stand",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b5d58a91-dab3-4798-b150-12e99e534056",
+      "supplierID": "bcd9a3e2-58d5-4f6d-b08c-acab54d0ae12",
+      "name": "Laptop Stand",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a1df22ed-abc4-4028-b9d0-3b1cecf7c599",
+      "supplierID": "bcd9a3e2-58d5-4f6d-b08c-acab54d0ae12",
+      "name": "Hair Dryer",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "004df09f-f768-43fe-bded-8f75aa5d2339",
+      "supplierID": "4d32c271-40a2-44c7-a46d-4bbe29d72fd2",
+      "name": "Portable Speaker",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "120b7ff8-f88d-4d2b-b756-f020d2d4b9ea",
+      "supplierID": "4d32c271-40a2-44c7-a46d-4bbe29d72fd2",
+      "name": "Noise Cancelling Headphones",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b21f4829-9525-446e-8794-984fc11d731d",
+      "supplierID": "4d32c271-40a2-44c7-a46d-4bbe29d72fd2",
+      "name": "Action Camera",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ed965416-866d-4bde-becb-f4ea36d8894d",
+      "supplierID": "4d32c271-40a2-44c7-a46d-4bbe29d72fd2",
+      "name": "Smart Plug",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c5d55941-e288-40ee-97fa-aaaa83747f68",
+      "supplierID": "4d32c271-40a2-44c7-a46d-4bbe29d72fd2",
+      "name": "Digital Photo Frame",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "577b2fa2-aa66-4187-bef2-9b46f61cb4aa",
+      "supplierID": "a507f0ac-2b1d-4dfa-9510-c322ac0c8c95",
+      "name": "Tablet",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4f1b1d28-f3f6-4d14-8178-d7b3266003b5",
+      "supplierID": "a507f0ac-2b1d-4dfa-9510-c322ac0c8c95",
+      "name": "Electric Toothbrush",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6b4d1831-5c29-4b95-b8e5-24fddbf5fb21",
+      "supplierID": "a507f0ac-2b1d-4dfa-9510-c322ac0c8c95",
+      "name": "Home Security Camera",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "122377cb-658d-4123-9aa9-4f7844f4232d",
+      "supplierID": "a507f0ac-2b1d-4dfa-9510-c322ac0c8c95",
+      "name": "Digital Photo Frame",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6b162898-b3e1-4e0e-b96b-03d6e0e0f920",
+      "supplierID": "a507f0ac-2b1d-4dfa-9510-c322ac0c8c95",
+      "name": "Portable Speaker",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c785b7c2-307d-49ed-aec8-17f6b1731fdd",
+      "supplierID": "69f479b1-7ec7-4f0e-96de-88ea480e228f",
+      "name": "Coffee Maker",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "095d3900-b18e-481d-b20f-e00c3a92855b",
+      "supplierID": "69f479b1-7ec7-4f0e-96de-88ea480e228f",
+      "name": "Blender",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "62255534-119b-4206-b4a6-388c71633dd4",
+      "supplierID": "69f479b1-7ec7-4f0e-96de-88ea480e228f",
+      "name": "Smartwatch",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d80a95a1-bd3f-4835-8293-cb335024b756",
+      "supplierID": "69f479b1-7ec7-4f0e-96de-88ea480e228f",
+      "name": "Smart TV",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "87051eb2-6351-4eea-a1d4-1391ca37329e",
+      "supplierID": "69f479b1-7ec7-4f0e-96de-88ea480e228f",
+      "name": "WiFi Range Extender",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cbe6d553-47fd-43a6-b5c4-b366b60bb9b1",
+      "supplierID": "de84182b-d27c-4146-b432-1b0615a1cbd5",
+      "name": "Smart Door Lock",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0bfcc004-52ef-495b-a30a-a27644c47ceb",
+      "supplierID": "de84182b-d27c-4146-b432-1b0615a1cbd5",
+      "name": "Smart Thermostat",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1aaee309-259d-4109-9989-1736873ae20a",
+      "supplierID": "de84182b-d27c-4146-b432-1b0615a1cbd5",
+      "name": "Wireless Charger",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ff8b0914-e704-46ea-bef2-86750073e6ef",
+      "supplierID": "de84182b-d27c-4146-b432-1b0615a1cbd5",
+      "name": "4K Monitor",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b06d0b3b-0c2c-4bbc-bc60-540baf7259eb",
+      "supplierID": "de84182b-d27c-4146-b432-1b0615a1cbd5",
+      "name": "Gaming Keyboard",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1952206a-3299-4922-bca6-a07c47d6a6bd",
+      "supplierID": "02ae388f-f5cb-49a4-b236-9ec54fde6965",
+      "name": "4K Monitor",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5496eb97-9414-40c7-b609-484b92d326fa",
+      "supplierID": "02ae388f-f5cb-49a4-b236-9ec54fde6965",
+      "name": "WiFi Range Extender",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "18e4cc43-3c73-438f-817c-7c88a25e1f6e",
+      "supplierID": "02ae388f-f5cb-49a4-b236-9ec54fde6965",
+      "name": "USB-C Hub",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e98f6bf0-2e3d-459f-9c49-c89acbfbbb19",
+      "supplierID": "02ae388f-f5cb-49a4-b236-9ec54fde6965",
+      "name": "Bluetooth Speaker",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "05414a28-e429-4abe-8947-4b645100ee28",
+      "supplierID": "02ae388f-f5cb-49a4-b236-9ec54fde6965",
+      "name": "Soundbar",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cab7930b-38bd-4c2b-b786-66aeb3b2351c",
+      "supplierID": "deef42ea-4758-40db-8317-dd4b2b962c33",
+      "name": "Vacuum Cleaner",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b05bdfd9-7874-4822-8ea1-109969dd9e6f",
+      "supplierID": "deef42ea-4758-40db-8317-dd4b2b962c33",
+      "name": "Smart Thermometer",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "988b60dd-a5f7-4b38-ab77-5330a7c8327c",
+      "supplierID": "deef42ea-4758-40db-8317-dd4b2b962c33",
+      "name": "Electric Kettle",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d7a0ccbc-a0de-4fb1-a18d-457c558769f0",
+      "supplierID": "deef42ea-4758-40db-8317-dd4b2b962c33",
+      "name": "Streaming Device",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f1dd498f-c163-4fcb-a678-fecd70c8cfa8",
+      "supplierID": "deef42ea-4758-40db-8317-dd4b2b962c33",
+      "name": "Wireless Charger",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "16763c81-6740-4412-91d2-f9047611d633",
+      "supplierID": "7186e914-0172-4960-adcf-b09003816510",
+      "name": "Vacuum Cleaner",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3a0ee2e6-b651-48dd-bcac-be027fc86b70",
+      "supplierID": "7186e914-0172-4960-adcf-b09003816510",
+      "name": "Home Security Camera",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ad096b6c-c787-4e2a-acce-5696ca58fe62",
+      "supplierID": "7186e914-0172-4960-adcf-b09003816510",
+      "name": "Bluetooth Tracker",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "27ee3550-04ec-41d1-be00-febf8458e640",
+      "supplierID": "7186e914-0172-4960-adcf-b09003816510",
+      "name": "Smart Water Bottle",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "49d23d24-7935-4889-af5e-8a4ededd9786",
+      "supplierID": "7186e914-0172-4960-adcf-b09003816510",
+      "name": "Smart Home Hub",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f9491e8f-15f1-4c52-97e9-d6aec92993b4",
+      "supplierID": "a5a3ff49-c36c-4923-a547-013e14236e6e",
+      "name": "E-Reader",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d2a97668-f4df-40a6-a5d6-7d0cc1be0c56",
+      "supplierID": "a5a3ff49-c36c-4923-a547-013e14236e6e",
+      "name": "Smart Doorbell",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "80dca855-dcfb-4726-b1b8-614e79792667",
+      "supplierID": "a5a3ff49-c36c-4923-a547-013e14236e6e",
+      "name": "Digital Photo Frame",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c6b3bf1b-f075-4580-bb42-9650e9e7081a",
+      "supplierID": "a5a3ff49-c36c-4923-a547-013e14236e6e",
+      "name": "Hair Dryer",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "273c4b56-0cc0-43b4-9a4a-b670d892ee07",
+      "supplierID": "a5a3ff49-c36c-4923-a547-013e14236e6e",
+      "name": "Electric Shaver",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4f2c5105-1fee-4e8e-a484-cbde598838f4",
+      "supplierID": "b2662d5c-fd39-4593-82a2-dd44705744db",
+      "name": "Streaming Device",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f84f0e52-a2a0-401a-bfd4-59e0e055f32c",
+      "supplierID": "b2662d5c-fd39-4593-82a2-dd44705744db",
+      "name": "Wireless Router",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c982cc99-c379-4112-86a3-08b269725b98",
+      "supplierID": "b2662d5c-fd39-4593-82a2-dd44705744db",
+      "name": "WiFi Range Extender",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1e565016-c0e8-49e9-934f-6e2cffafc416",
+      "supplierID": "b2662d5c-fd39-4593-82a2-dd44705744db",
+      "name": "Smart Doorbell",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7095aa62-5f27-49ce-aa9f-2b20bf3eafc2",
+      "supplierID": "b2662d5c-fd39-4593-82a2-dd44705744db",
+      "name": "Gaming Keyboard",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8336467c-1012-473d-ba1b-b70a8b12b7f7",
+      "supplierID": "3a5c3ce9-d1e4-4175-a77c-b9a471582a38",
+      "name": "Soundbar",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e4104f9e-8a89-4ebe-9cb9-98fd513f05ba",
+      "supplierID": "3a5c3ce9-d1e4-4175-a77c-b9a471582a38",
+      "name": "Soundbar",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "be712062-b5f6-4014-a68a-4b0831f04b48",
+      "supplierID": "3a5c3ce9-d1e4-4175-a77c-b9a471582a38",
+      "name": "Electric Shaver",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "78876d69-d1d2-4998-9cbd-9f5765b1417a",
+      "supplierID": "3a5c3ce9-d1e4-4175-a77c-b9a471582a38",
+      "name": "Hair Dryer",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2962fce5-1ac2-4c65-a54f-9ccf9f7bdf2c",
+      "supplierID": "3a5c3ce9-d1e4-4175-a77c-b9a471582a38",
+      "name": "Laptop Stand",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ab379b6f-b2f3-414a-bcb3-b0a7a3606540",
+      "supplierID": "7f706f8c-fb82-45bb-9d59-95b341fea976",
+      "name": "Hair Dryer",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "67fbcdbd-164f-4807-8313-f2e18333face",
+      "supplierID": "7f706f8c-fb82-45bb-9d59-95b341fea976",
+      "name": "Smart TV",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2eb167f3-be13-443d-90a1-09792a21056c",
+      "supplierID": "7f706f8c-fb82-45bb-9d59-95b341fea976",
+      "name": "External Hard Drive",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cc526c52-c048-47fa-ad77-49ce239960a7",
+      "supplierID": "7f706f8c-fb82-45bb-9d59-95b341fea976",
+      "name": "Smartwatch",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0f545473-1897-4d31-857a-f0464fd4528f",
+      "supplierID": "7f706f8c-fb82-45bb-9d59-95b341fea976",
+      "name": "Smart Scale",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a018ece1-32db-42e2-acf8-5425f4fa6e0f",
+      "supplierID": "b807df7f-6f46-499f-9583-084948702a39",
+      "name": "Smart Plug",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a4e6a35b-7dbb-4c56-8305-11f47adabc3c",
+      "supplierID": "b807df7f-6f46-499f-9583-084948702a39",
+      "name": "Smart Water Bottle",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f6a9c332-3e48-413a-ae6c-b6a27cea8bdd",
+      "supplierID": "b807df7f-6f46-499f-9583-084948702a39",
+      "name": "Tablet",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9bd26ebd-4805-42c3-92ea-79d49a5a41a9",
+      "supplierID": "b807df7f-6f46-499f-9583-084948702a39",
+      "name": "Action Camera",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b7a1208f-1f7f-4ac2-9d0b-1e04fb77b621",
+      "supplierID": "b807df7f-6f46-499f-9583-084948702a39",
+      "name": "Soundbar",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "80b271c2-f262-4e75-8d3f-69b55b814a06",
+      "supplierID": "6aef0702-f00c-4d51-b323-61f006ea06f0",
+      "name": "Smart Plug",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3713d17f-25e5-48a2-9d1e-cd6273eb28a9",
+      "supplierID": "6aef0702-f00c-4d51-b323-61f006ea06f0",
+      "name": "Electric Kettle",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "645522c2-1058-4d0f-be8d-70d1840e486c",
+      "supplierID": "6aef0702-f00c-4d51-b323-61f006ea06f0",
+      "name": "USB-C Hub",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ec378809-35af-4078-bbe8-deef361b5dbd",
+      "supplierID": "6aef0702-f00c-4d51-b323-61f006ea06f0",
+      "name": "Electric Scooter",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "91b5d5fa-0a59-40d2-95dc-1f40e67ac919",
+      "supplierID": "6aef0702-f00c-4d51-b323-61f006ea06f0",
+      "name": "Air Purifier",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "10c62fb0-a5f3-4c59-85e8-2acc921a9cd3",
+      "supplierID": "760d4bb4-384d-41fd-998d-45ab18193819",
+      "name": "Smart Home Hub",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "de8c4732-c87d-46d0-bc8c-4654d5242135",
+      "supplierID": "760d4bb4-384d-41fd-998d-45ab18193819",
+      "name": "Wireless Earbuds",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "65fe29fe-7531-4393-9311-5c06561152c2",
+      "supplierID": "760d4bb4-384d-41fd-998d-45ab18193819",
+      "name": "Smart Plug",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e25b9a49-7d1b-47de-8fbe-4b586ed7c0a1",
+      "supplierID": "760d4bb4-384d-41fd-998d-45ab18193819",
+      "name": "Wireless Charger",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3876d677-4bc2-4e1c-a3b0-266e6c4a553a",
+      "supplierID": "760d4bb4-384d-41fd-998d-45ab18193819",
+      "name": "Electric Toothbrush",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d36950cf-20de-4b5f-af10-7be8b9ea49d5",
+      "supplierID": "1b50f481-95a9-47dd-a6a1-9e8e39dcf81a",
+      "name": "Portable Blender",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "32a84028-c2fc-4f3d-a761-c870f2a2e0e5",
+      "supplierID": "1b50f481-95a9-47dd-a6a1-9e8e39dcf81a",
+      "name": "Electric Scooter",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "611eb15e-7df6-453d-8922-8221f992993c",
+      "supplierID": "1b50f481-95a9-47dd-a6a1-9e8e39dcf81a",
+      "name": "Bluetooth Headphones",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7db6d9cd-1af2-422a-a246-561b915d5611",
+      "supplierID": "1b50f481-95a9-47dd-a6a1-9e8e39dcf81a",
+      "name": "Noise Cancelling Headphones",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a63b49c8-07ca-4c0f-be68-89ccb3158562",
+      "supplierID": "1b50f481-95a9-47dd-a6a1-9e8e39dcf81a",
+      "name": "Wireless Earbuds",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4ff621bb-eb7d-4cc6-898c-0721472ab408",
+      "supplierID": "8ca2fc4f-5199-4f7f-a4ac-d0a445895fcd",
+      "name": "USB-C Hub",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9e5f0d43-6d84-46e1-bc37-83a93431dc76",
+      "supplierID": "8ca2fc4f-5199-4f7f-a4ac-d0a445895fcd",
+      "name": "Smart Water Bottle",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fb32cc4e-62c2-4706-a31a-91fd9daa419c",
+      "supplierID": "8ca2fc4f-5199-4f7f-a4ac-d0a445895fcd",
+      "name": "Smart Glasses",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "643a472e-8b54-4456-b39d-34874a21df6c",
+      "supplierID": "8ca2fc4f-5199-4f7f-a4ac-d0a445895fcd",
+      "name": "Noise Cancelling Earbuds",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cf554e22-e753-4fc4-9502-5e08fa5eaf06",
+      "supplierID": "8ca2fc4f-5199-4f7f-a4ac-d0a445895fcd",
+      "name": "Tablet",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "989acd4c-aa96-490e-8e82-b9cd0c11af96",
+      "supplierID": "be70d071-4735-43e4-9c34-6e9d93075bd1",
+      "name": "Instant Pot",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6f8ac8af-fdaa-48ca-8bd7-1845962295b9",
+      "supplierID": "be70d071-4735-43e4-9c34-6e9d93075bd1",
+      "name": "Digital Photo Frame",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a33689ae-8434-482c-bbc4-01a4484342af",
+      "supplierID": "be70d071-4735-43e4-9c34-6e9d93075bd1",
+      "name": "Bluetooth Speaker",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "351132a4-a17a-41af-8837-9d2c2f78960a",
+      "supplierID": "be70d071-4735-43e4-9c34-6e9d93075bd1",
+      "name": "Smart Glasses",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "aa03d25e-9b29-4816-8dc4-4bb52124ce81",
+      "supplierID": "be70d071-4735-43e4-9c34-6e9d93075bd1",
+      "name": "Soundbar",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "daa9d417-8381-471c-b230-ab2a2e0ae5ec",
+      "supplierID": "6534d48a-633a-4db4-9dda-9e53c43abb8f",
+      "name": "Portable Blender",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c4c09198-4408-4fb0-a419-e7763a092f3c",
+      "supplierID": "6534d48a-633a-4db4-9dda-9e53c43abb8f",
+      "name": "Instant Pot",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "def5a7bc-3c59-49af-bce3-9042f4c8476b",
+      "supplierID": "6534d48a-633a-4db4-9dda-9e53c43abb8f",
+      "name": "Smart Lock",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "73dd8095-8a73-462a-8af9-5600f2341945",
+      "supplierID": "6534d48a-633a-4db4-9dda-9e53c43abb8f",
+      "name": "Gaming Keyboard",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a07ebfd3-d1fb-4ed6-a72d-caea7c4811a2",
+      "supplierID": "6534d48a-633a-4db4-9dda-9e53c43abb8f",
+      "name": "Smart Home Hub",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fe2c9f7a-5292-4643-b749-e28a05ddc119",
+      "supplierID": "e9d4cee1-3635-4520-a0a4-11c73c7e3c3b",
+      "name": "Bluetooth Speaker",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "85f73a03-329b-4b4c-88ea-129887649f0c",
+      "supplierID": "e9d4cee1-3635-4520-a0a4-11c73c7e3c3b",
+      "name": "Solar Charger",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fd1be8e3-2549-4916-9ab8-d996c3e2308c",
+      "supplierID": "e9d4cee1-3635-4520-a0a4-11c73c7e3c3b",
+      "name": "Fitness Bike",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c420498c-66d6-4393-8c4b-dc1281f6fd96",
+      "supplierID": "e9d4cee1-3635-4520-a0a4-11c73c7e3c3b",
+      "name": "USB-C Hub",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1ece0723-4fe7-4e4d-adf0-c68c3df61863",
+      "supplierID": "e9d4cee1-3635-4520-a0a4-11c73c7e3c3b",
+      "name": "Electric Toothbrush",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "84448b3f-1286-439c-a33d-4173adb02dd0",
+      "supplierID": "65f395b9-a657-4aed-b9ef-13087487a4a0",
+      "name": "Portable Blender",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7a9ae195-4907-478b-8a91-cc67b1462e8d",
+      "supplierID": "65f395b9-a657-4aed-b9ef-13087487a4a0",
+      "name": "Electric Toothbrush",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "db21f775-b8cf-4503-91c1-8f74e94b09fe",
+      "supplierID": "65f395b9-a657-4aed-b9ef-13087487a4a0",
+      "name": "Fitness Bike",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "83cca6d9-29f1-4a47-99e9-e6939d650e66",
+      "supplierID": "65f395b9-a657-4aed-b9ef-13087487a4a0",
+      "name": "Bluetooth Tracker",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3621c5bb-82a0-4758-a522-ce1f726a23c2",
+      "supplierID": "65f395b9-a657-4aed-b9ef-13087487a4a0",
+      "name": "Electric Scooter",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "362ecf74-0320-4fdf-8e76-c751e6b8055b",
+      "supplierID": "3e182ab2-14d4-4f8d-989b-b55c25275cae",
+      "name": "Portable Speaker",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cf932b6b-fe9f-40e5-8f54-1df5bdfe2d4b",
+      "supplierID": "3e182ab2-14d4-4f8d-989b-b55c25275cae",
+      "name": "Solar Charger",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "474be092-1d7c-439a-880e-80fbc6e3b350",
+      "supplierID": "3e182ab2-14d4-4f8d-989b-b55c25275cae",
+      "name": "Wireless Router",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c8c359f9-41ca-4320-8497-bbe8e1f9cbef",
+      "supplierID": "3e182ab2-14d4-4f8d-989b-b55c25275cae",
+      "name": "Bluetooth Speaker",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e445751b-28f9-4483-a05c-4a4257cbe378",
+      "supplierID": "3e182ab2-14d4-4f8d-989b-b55c25275cae",
+      "name": "Fitness Tracker",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "90335b40-9de5-4899-a5cd-948ce870501d",
+      "supplierID": "b82f90c7-c434-4a2b-a9d6-5a5cb985842a",
+      "name": "Smart Scale",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "40b23d65-11bd-4202-9382-335351ccedf3",
+      "supplierID": "b82f90c7-c434-4a2b-a9d6-5a5cb985842a",
+      "name": "External Hard Drive",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "947dffdd-00f2-41fd-8d9b-cf497f243113",
+      "supplierID": "b82f90c7-c434-4a2b-a9d6-5a5cb985842a",
+      "name": "Smart Home Hub",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "febc163d-5c9d-44d2-8be0-590ebefa172b",
+      "supplierID": "b82f90c7-c434-4a2b-a9d6-5a5cb985842a",
+      "name": "Instant Pot",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b4d8d2f3-ec3f-4062-9689-ff742978c573",
+      "supplierID": "b82f90c7-c434-4a2b-a9d6-5a5cb985842a",
+      "name": "Bluetooth Speaker",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "00ffe660-4371-4191-b3b1-47a14c8b7dda",
+      "supplierID": "d243bbc9-414e-47c3-8e85-402d6f70c189",
+      "name": "Smart Door Lock",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "119a4cc2-fba5-459b-bf28-4f829c9146a7",
+      "supplierID": "d243bbc9-414e-47c3-8e85-402d6f70c189",
+      "name": "Noise Cancelling Headphones",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7e8f2f65-adfa-44ff-8372-c46d15c8d077",
+      "supplierID": "d243bbc9-414e-47c3-8e85-402d6f70c189",
+      "name": "Vacuum Cleaner",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0e64f996-f161-47b6-9c2e-f998137b92ef",
+      "supplierID": "d243bbc9-414e-47c3-8e85-402d6f70c189",
+      "name": "Electric Toothbrush",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "244314f5-6f81-4675-83bd-998ff4b54fe9",
+      "supplierID": "d243bbc9-414e-47c3-8e85-402d6f70c189",
+      "name": "Massage Gun",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b2a2c6d1-5beb-4305-aa98-a978eaa11a2b",
+      "supplierID": "b422aa46-3900-41ad-942f-94871e930c94",
+      "name": "Smart Lock",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "89471687-072d-452b-adc4-f6251915eb1f",
+      "supplierID": "b422aa46-3900-41ad-942f-94871e930c94",
+      "name": "Smart Glasses",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a11aad64-31be-4939-8754-2f69e9be0ef9",
+      "supplierID": "b422aa46-3900-41ad-942f-94871e930c94",
+      "name": "Fitness Tracker",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "43ff4535-6bca-4add-8b31-31e2e821d04e",
+      "supplierID": "b422aa46-3900-41ad-942f-94871e930c94",
+      "name": "Mechanical Keyboard",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8d6af906-c16f-457a-ac4a-6ed1dd0679a6",
+      "supplierID": "b422aa46-3900-41ad-942f-94871e930c94",
+      "name": "Solar Charger",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "13fd342d-f1fc-4c70-8e1d-3aca35ab5219",
+      "supplierID": "ae7938f6-c948-4c5d-bc40-a109eba35e93",
+      "name": "Smart Scale",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ef1207bb-79d5-4af3-8b61-b36bc7824cb0",
+      "supplierID": "ae7938f6-c948-4c5d-bc40-a109eba35e93",
+      "name": "Smartwatch",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "33814e8c-65a5-46ba-badb-9df2748a764c",
+      "supplierID": "ae7938f6-c948-4c5d-bc40-a109eba35e93",
+      "name": "Streaming Device",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "11325b00-2ac8-4316-9fd0-490609341282",
+      "supplierID": "ae7938f6-c948-4c5d-bc40-a109eba35e93",
+      "name": "Smart Thermometer",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1d29d9dd-5ea7-4c46-b7e6-5e3617b793c0",
+      "supplierID": "ae7938f6-c948-4c5d-bc40-a109eba35e93",
+      "name": "Massage Gun",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b810cd64-c60e-48cd-9eea-025e3ffa8e42",
+      "supplierID": "914a590c-0ec2-4f1a-8a0e-61df3e4125a2",
+      "name": "Wireless Mouse",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4aacfd52-ddca-4cdd-9c45-83af042d54c2",
+      "supplierID": "914a590c-0ec2-4f1a-8a0e-61df3e4125a2",
+      "name": "E-Reader",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "828183e1-3fdd-44a4-86ab-e6b94fc3cbc6",
+      "supplierID": "914a590c-0ec2-4f1a-8a0e-61df3e4125a2",
+      "name": "Gaming Keyboard",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7d2842e9-f5ec-47a1-9e2b-8440d749286d",
+      "supplierID": "914a590c-0ec2-4f1a-8a0e-61df3e4125a2",
+      "name": "Fitness Bike",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f3b7172e-4f68-4785-b211-b2eb88fccb8a",
+      "supplierID": "914a590c-0ec2-4f1a-8a0e-61df3e4125a2",
+      "name": "USB-C Hub",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b54a9236-9733-420d-a317-22e671e2ba5a",
+      "supplierID": "cecb930a-1ff4-402b-bde4-bcc2e7be7d6f",
+      "name": "Smart Thermostat",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "405a69e1-5d3f-47c5-a2bf-3e9119044415",
+      "supplierID": "cecb930a-1ff4-402b-bde4-bcc2e7be7d6f",
+      "name": "Digital Photo Frame",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5ab96f07-36b9-4e10-8019-88d1d326f966",
+      "supplierID": "cecb930a-1ff4-402b-bde4-bcc2e7be7d6f",
+      "name": "Robot Vacuum",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b7442fc7-55f1-4694-8565-c3e51d3dc6c4",
+      "supplierID": "cecb930a-1ff4-402b-bde4-bcc2e7be7d6f",
+      "name": "Smartwatch",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d330dce8-5554-442c-9e60-be6f00d3d8ed",
+      "supplierID": "cecb930a-1ff4-402b-bde4-bcc2e7be7d6f",
+      "name": "Laptop Backpack",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f3f11f8c-b199-4030-b7cf-c23c1f6646cc",
+      "supplierID": "e8902494-c9ca-40f0-b544-f3b78288384c",
+      "name": "Smart Glasses",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "50135081-b635-4fe1-babf-8e51f536f3e8",
+      "supplierID": "e8902494-c9ca-40f0-b544-f3b78288384c",
+      "name": "Smart Water Bottle",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "50af7bb3-fe53-44a5-b81f-d28b47ce187d",
+      "supplierID": "e8902494-c9ca-40f0-b544-f3b78288384c",
+      "name": "Smart Thermometer",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fd20bda4-4e3a-45c8-9abc-8ad7065c8f5a",
+      "supplierID": "e8902494-c9ca-40f0-b544-f3b78288384c",
+      "name": "USB-C Hub",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "36828fa6-1fc2-4124-9654-5533b2c6c0b5",
+      "supplierID": "e8902494-c9ca-40f0-b544-f3b78288384c",
+      "name": "Electric Pressure Cooker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f584d2d3-53bf-45c9-b0f9-a419b2a37d7e",
+      "supplierID": "f4d50a12-9750-4dcf-95a7-cef28b3beee5",
+      "name": "Coffee Maker",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8525978a-40fe-4a86-8aad-138a3a119ba4",
+      "supplierID": "f4d50a12-9750-4dcf-95a7-cef28b3beee5",
+      "name": "Fitness Tracker",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f85a1c93-24fc-4f5b-ac43-17751405fc3e",
+      "supplierID": "f4d50a12-9750-4dcf-95a7-cef28b3beee5",
+      "name": "Electric Scooter",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "05a9a726-c908-4c41-bab3-8f8c00f44461",
+      "supplierID": "f4d50a12-9750-4dcf-95a7-cef28b3beee5",
+      "name": "Electric Kettle",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a19146d7-cf5d-4918-8e14-603d7b7e9324",
+      "supplierID": "f4d50a12-9750-4dcf-95a7-cef28b3beee5",
+      "name": "Smart Light Bulb",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e77a1fd7-72a6-45b3-98d9-8a42dae5782b",
+      "supplierID": "df154e3e-a95b-4e36-80b7-e6f9589d6adf",
+      "name": "Smart TV",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4c1ca6e3-8b62-41ab-8d57-63382dd7d7d4",
+      "supplierID": "df154e3e-a95b-4e36-80b7-e6f9589d6adf",
+      "name": "Massage Gun",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8c9f71ba-24ce-4ea0-8c84-825d952afd4f",
+      "supplierID": "df154e3e-a95b-4e36-80b7-e6f9589d6adf",
+      "name": "Smart Water Bottle",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1d480dc7-8057-4eff-ba0d-13287f5f1ad7",
+      "supplierID": "df154e3e-a95b-4e36-80b7-e6f9589d6adf",
+      "name": "Noise Cancelling Earbuds",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8215b722-7672-4355-86b6-e12a6c03bde4",
+      "supplierID": "df154e3e-a95b-4e36-80b7-e6f9589d6adf",
+      "name": "Massage Gun",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bad29311-3f57-4778-8276-c0ab63e6251d",
+      "supplierID": "b0d4ed38-9c9e-42bb-bc62-2be3005133aa",
+      "name": "Air Purifier",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a1c947da-89f9-4841-b60d-5e83af1c5845",
+      "supplierID": "b0d4ed38-9c9e-42bb-bc62-2be3005133aa",
+      "name": "Electric Toothbrush",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fce39046-a2c2-4c33-92c0-94eec2691053",
+      "supplierID": "b0d4ed38-9c9e-42bb-bc62-2be3005133aa",
+      "name": "Wireless Router",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b4324c6f-7a96-4174-a1d5-e6d1853be333",
+      "supplierID": "b0d4ed38-9c9e-42bb-bc62-2be3005133aa",
+      "name": "E-Reader",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0d50e33b-cfe0-48fb-9c57-fadec9d5d428",
+      "supplierID": "b0d4ed38-9c9e-42bb-bc62-2be3005133aa",
+      "name": "USB-C Hub",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4d1ff3ac-1f52-4a8d-a45d-79243353d840",
+      "supplierID": "6c3434c5-d1eb-4324-ba89-32556b777264",
+      "name": "Hair Dryer",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e9277dcb-f003-4dc8-beaa-89df8fb9d676",
+      "supplierID": "6c3434c5-d1eb-4324-ba89-32556b777264",
+      "name": "Smart Thermometer",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3ed245a2-e339-4972-ad5a-5d3c23ae6277",
+      "supplierID": "6c3434c5-d1eb-4324-ba89-32556b777264",
+      "name": "Laptop Backpack",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "10fb82f9-fdc8-4cae-a626-95a069675d58",
+      "supplierID": "6c3434c5-d1eb-4324-ba89-32556b777264",
+      "name": "Smart Doorbell",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "46b3ac3b-cafe-4cc9-a47e-2f8a30ab8127",
+      "supplierID": "6c3434c5-d1eb-4324-ba89-32556b777264",
+      "name": "4K Monitor",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "27db16f9-7f54-4612-b663-1708ef6e0e68",
+      "supplierID": "af9099a7-6cac-4e6c-9ec5-c0ea9aa3b241",
+      "name": "Coffee Maker",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7d376556-aebe-4d33-874e-8953e8e31488",
+      "supplierID": "af9099a7-6cac-4e6c-9ec5-c0ea9aa3b241",
+      "name": "Wireless Router",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "60be0a2e-d087-4288-a09b-72c1e9f41cb4",
+      "supplierID": "af9099a7-6cac-4e6c-9ec5-c0ea9aa3b241",
+      "name": "WiFi Range Extender",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2bfe9dc7-5712-4f77-97d4-89ed54b54f34",
+      "supplierID": "af9099a7-6cac-4e6c-9ec5-c0ea9aa3b241",
+      "name": "Electric Shaver",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "43db70b5-048e-4aac-81b9-c8e3bd8e1336",
+      "supplierID": "af9099a7-6cac-4e6c-9ec5-c0ea9aa3b241",
+      "name": "Smart Plug",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "14f45b66-4d0a-4f36-a6c0-8aa0cfb6d610",
+      "supplierID": "e7b76130-80b2-4737-95c6-3ece725d43d7",
+      "name": "Fitness Bike",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1a7968cb-a3af-48d2-9fda-41d2d2bfc136",
+      "supplierID": "e7b76130-80b2-4737-95c6-3ece725d43d7",
+      "name": "Laptop Backpack",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8e2b19f5-a70a-40b0-b784-9dc93a8acd66",
+      "supplierID": "e7b76130-80b2-4737-95c6-3ece725d43d7",
+      "name": "Robot Vacuum",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6e10afdf-7b6f-4c3f-ac94-5e9ea7959587",
+      "supplierID": "e7b76130-80b2-4737-95c6-3ece725d43d7",
+      "name": "Wireless Router",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e131d370-8298-408b-93a3-90507f8a1009",
+      "supplierID": "e7b76130-80b2-4737-95c6-3ece725d43d7",
+      "name": "Portable Charger",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0d0bc2ee-0550-4c1a-b428-1b356c80d9f8",
+      "supplierID": "bec4cb96-1946-42e5-bd62-e16d3fcb3526",
+      "name": "Electric Pressure Cooker",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c87cd478-8964-41d5-bf5a-9708f0b7589a",
+      "supplierID": "bec4cb96-1946-42e5-bd62-e16d3fcb3526",
+      "name": "Standing Desk",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7d56e653-eb00-4fdf-9161-21d9e2b5a536",
+      "supplierID": "bec4cb96-1946-42e5-bd62-e16d3fcb3526",
+      "name": "Solar Charger",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "681bf837-1d82-47c8-b849-70cd0a51aab4",
+      "supplierID": "bec4cb96-1946-42e5-bd62-e16d3fcb3526",
+      "name": "Mechanical Keyboard",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e4183a09-6b88-4333-b923-b1358eaed79b",
+      "supplierID": "bec4cb96-1946-42e5-bd62-e16d3fcb3526",
+      "name": "Tablet",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "233ad8f8-189c-4cf1-b6f8-36f93384f223",
+      "supplierID": "2311c723-f14b-459c-872c-3d0e8be41826",
+      "name": "Noise Cancelling Headphones",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2ac104cc-9db8-4e0d-9efb-ba54a9e1780f",
+      "supplierID": "2311c723-f14b-459c-872c-3d0e8be41826",
+      "name": "Portable Projector",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ff4e01e6-687c-4aba-871f-dbd3c50f60d4",
+      "supplierID": "2311c723-f14b-459c-872c-3d0e8be41826",
+      "name": "Digital Photo Frame",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "74ac8231-c25a-4a33-8b4a-27a31022333d",
+      "supplierID": "2311c723-f14b-459c-872c-3d0e8be41826",
+      "name": "Bluetooth Speaker",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0e7e25d1-b2a5-4416-ac85-ad50e352f1e7",
+      "supplierID": "2311c723-f14b-459c-872c-3d0e8be41826",
+      "name": "Streaming Device",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "97b72821-900c-436e-ab5c-1ce51e081c0e",
+      "supplierID": "a9bdc335-e469-4a37-b2d1-c074b620720f",
+      "name": "Wireless Mouse",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "396a8ed1-4de8-4359-9234-625fabe4a34e",
+      "supplierID": "a9bdc335-e469-4a37-b2d1-c074b620720f",
+      "name": "Electric Pressure Cooker",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "80f0f998-b6ec-437b-b0e9-3d8eabb06d40",
+      "supplierID": "a9bdc335-e469-4a37-b2d1-c074b620720f",
+      "name": "LED Desk Lamp",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "63f35483-73f2-4223-a99e-111355fb6009",
+      "supplierID": "a9bdc335-e469-4a37-b2d1-c074b620720f",
+      "name": "Home Security Camera",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "04a7ed98-88e9-4061-b79a-a3a368716827",
+      "supplierID": "a9bdc335-e469-4a37-b2d1-c074b620720f",
+      "name": "Streaming Device",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2991a6b4-86ec-41d3-b97a-8391530af0a3",
+      "supplierID": "10a1a1d9-48e3-45d2-8680-552fd7c63489",
+      "name": "Smartphone",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "39f9e900-ad0c-4513-86e8-58d8c1261758",
+      "supplierID": "10a1a1d9-48e3-45d2-8680-552fd7c63489",
+      "name": "Portable Blender",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "24c9d888-6f41-4c29-ae00-80c94e3e728f",
+      "supplierID": "10a1a1d9-48e3-45d2-8680-552fd7c63489",
+      "name": "Vacuum Cleaner",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "215bb61c-b93e-4ce4-8fb4-87432354e585",
+      "supplierID": "10a1a1d9-48e3-45d2-8680-552fd7c63489",
+      "name": "4K Monitor",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1478f403-1b14-4fb4-a8bd-a72c5f5b28db",
+      "supplierID": "10a1a1d9-48e3-45d2-8680-552fd7c63489",
+      "name": "Tablet",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "42fab586-c922-4d88-ac74-e56e9c96db19",
+      "supplierID": "31194fa5-b4f7-49e9-a35a-0beb395aefa9",
+      "name": "Wireless Earbuds",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "12973119-de2d-454e-822c-71a9f23cbc71",
+      "supplierID": "31194fa5-b4f7-49e9-a35a-0beb395aefa9",
+      "name": "Portable Blender",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "30580072-9937-41b2-b169-e44f5fb54681",
+      "supplierID": "31194fa5-b4f7-49e9-a35a-0beb395aefa9",
+      "name": "Digital Camera",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "40f9a5da-ff1f-4488-932b-4a822047f904",
+      "supplierID": "31194fa5-b4f7-49e9-a35a-0beb395aefa9",
+      "name": "Electric Shaver",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e452f0cb-a13b-4329-bc90-8fd8a0c25229",
+      "supplierID": "31194fa5-b4f7-49e9-a35a-0beb395aefa9",
+      "name": "Gaming Keyboard",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "10de1785-aeb8-4ab7-a606-a559e57b793d",
+      "supplierID": "fc4c48e0-ddcf-4931-ae0e-b6e8f25286e2",
+      "name": "Portable Speaker",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8164fd8d-5f5a-4e7a-8a92-472fcfa13cee",
+      "supplierID": "fc4c48e0-ddcf-4931-ae0e-b6e8f25286e2",
+      "name": "Air Purifier",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0b3ab065-7f4f-4b90-97a8-d44ce89f55b3",
+      "supplierID": "fc4c48e0-ddcf-4931-ae0e-b6e8f25286e2",
+      "name": "Fitness Tracker",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cdbe2c80-57d8-46cc-b508-296bfed2739e",
+      "supplierID": "fc4c48e0-ddcf-4931-ae0e-b6e8f25286e2",
+      "name": "Robot Vacuum",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9bcb5b9c-8ceb-4955-876e-e2645460abc1",
+      "supplierID": "fc4c48e0-ddcf-4931-ae0e-b6e8f25286e2",
+      "name": "Laptop Backpack",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "dc8620c1-b6ef-4046-98df-9a4f54e4ea9b",
+      "supplierID": "49aa930f-b967-42d5-8a15-cf8abc1abf9a",
+      "name": "Streaming Device",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8da23d8f-ce07-4976-9786-de075b4b1d62",
+      "supplierID": "49aa930f-b967-42d5-8a15-cf8abc1abf9a",
+      "name": "Security Drone",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f3f1b2aa-265b-4601-afbf-05eb0145de9c",
+      "supplierID": "49aa930f-b967-42d5-8a15-cf8abc1abf9a",
+      "name": "Smart Door Lock",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8aaeb841-30da-45a5-8d89-7d3a3d15ab89",
+      "supplierID": "49aa930f-b967-42d5-8a15-cf8abc1abf9a",
+      "name": "Blender",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f0560265-5c9a-4ac7-8bb2-88f55e43de74",
+      "supplierID": "49aa930f-b967-42d5-8a15-cf8abc1abf9a",
+      "name": "Hair Dryer",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d121b7e3-348f-4917-b05c-ac66fc1d2819",
+      "supplierID": "3140fc3f-eacd-4ff9-b1de-dde2cb7fee34",
+      "name": "Smartphone",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d4e514a1-8315-4005-87f3-f2412cb02f45",
+      "supplierID": "3140fc3f-eacd-4ff9-b1de-dde2cb7fee34",
+      "name": "Smart Thermostat",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c6fe4190-7ed5-4c97-a265-e31ef5350e8a",
+      "supplierID": "3140fc3f-eacd-4ff9-b1de-dde2cb7fee34",
+      "name": "Tablet",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cf677518-b811-4c2c-9f2c-e3808e24e949",
+      "supplierID": "3140fc3f-eacd-4ff9-b1de-dde2cb7fee34",
+      "name": "Electric Scooter",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "51df1da8-a2c4-4ca3-891e-00c3eb423258",
+      "supplierID": "3140fc3f-eacd-4ff9-b1de-dde2cb7fee34",
+      "name": "Smart TV",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d39d059d-62a1-47f4-8d44-2d66afd55dd3",
+      "supplierID": "e5d83a27-6d66-41f9-ae1c-4f048b53ea2f",
+      "name": "Bluetooth Headphones",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d9226662-a134-4b9b-8c8d-e942afc4ec65",
+      "supplierID": "e5d83a27-6d66-41f9-ae1c-4f048b53ea2f",
+      "name": "Digital Photo Frame",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2cf797dd-fd9f-48c9-8ca8-a985bc4a5a4c",
+      "supplierID": "e5d83a27-6d66-41f9-ae1c-4f048b53ea2f",
+      "name": "Smart Thermometer",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bf2508c4-c06f-44e5-bb42-a6453349ed23",
+      "supplierID": "e5d83a27-6d66-41f9-ae1c-4f048b53ea2f",
+      "name": "Streaming Device",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "9426fc85-c530-4f0b-954b-d0ac053ac46b",
+      "supplierID": "e5d83a27-6d66-41f9-ae1c-4f048b53ea2f",
+      "name": "LED Desk Lamp",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d7534c10-c93a-40be-ae90-482d64581d98",
+      "supplierID": "457b48ce-f87b-4373-8321-775fc9e136d9",
+      "name": "Smart Glasses",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a4707a87-f44d-4511-b346-eb09fc9e1778",
+      "supplierID": "457b48ce-f87b-4373-8321-775fc9e136d9",
+      "name": "Smart Water Bottle",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3e76fd5d-a69b-4844-8168-4ecef1cd6425",
+      "supplierID": "457b48ce-f87b-4373-8321-775fc9e136d9",
+      "name": "Smart Glasses",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "05712f56-6cd0-4556-9666-33774acf0211",
+      "supplierID": "457b48ce-f87b-4373-8321-775fc9e136d9",
+      "name": "Smart Home Hub",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "7d1c0f34-8295-421e-97c9-a9db722ac7f1",
+      "supplierID": "457b48ce-f87b-4373-8321-775fc9e136d9",
+      "name": "Smart Plug",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "98f4943c-9584-44f2-94ab-9d34351656b8",
+      "supplierID": "3ae1a15c-7254-458d-a371-771ecfe04df5",
+      "name": "Hair Dryer",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "04f154b2-d9fc-432f-9845-14a28ffedce6",
+      "supplierID": "3ae1a15c-7254-458d-a371-771ecfe04df5",
+      "name": "Standing Desk",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "87728028-3de6-4f6e-848f-d27cee9eab4e",
+      "supplierID": "3ae1a15c-7254-458d-a371-771ecfe04df5",
+      "name": "Smart Home Hub",
+      "price": 63.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "8d47be16-84b8-47aa-a5ad-cdf7210b4941",
+      "supplierID": "3ae1a15c-7254-458d-a371-771ecfe04df5",
+      "name": "Soundbar",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e4eb8747-9152-48ff-a2ce-c97e1be141f0",
+      "supplierID": "3ae1a15c-7254-458d-a371-771ecfe04df5",
+      "name": "Smart TV",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "e8bce07a-687f-4c7b-b46b-5824af4b6cc9",
+      "supplierID": "da19341c-aea7-47a5-b8e1-af8437b4eb47",
+      "name": "Wireless Charger",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "65583c16-c768-455a-b99a-b4322e8b79b9",
+      "supplierID": "da19341c-aea7-47a5-b8e1-af8437b4eb47",
+      "name": "Smartphone",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "803fedac-9532-4b7b-a964-a51be34a22c7",
+      "supplierID": "da19341c-aea7-47a5-b8e1-af8437b4eb47",
+      "name": "Bluetooth Headphones",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bc9c4191-78c4-4199-a6e8-142eb19e2622",
+      "supplierID": "da19341c-aea7-47a5-b8e1-af8437b4eb47",
+      "name": "Smartwatch",
+      "price": 101.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5d1c9df3-e9e5-461d-90c7-06518959f7a8",
+      "supplierID": "da19341c-aea7-47a5-b8e1-af8437b4eb47",
+      "name": "Digital Photo Frame",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ce721fee-3443-429c-945d-03be874a2ad6",
+      "supplierID": "74b871bf-c302-4a9c-822e-7d819c4d9967",
+      "name": "Massage Gun",
+      "price": 23.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c5632322-4f70-4b57-a08e-e8960bdae7c5",
+      "supplierID": "74b871bf-c302-4a9c-822e-7d819c4d9967",
+      "name": "Smart Glasses",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0e71b57b-516c-436e-a250-0d2bcb5252c6",
+      "supplierID": "74b871bf-c302-4a9c-822e-7d819c4d9967",
+      "name": "Portable Charger",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "1dafe91f-a9e6-49e6-ace7-04df32bd20b8",
+      "supplierID": "74b871bf-c302-4a9c-822e-7d819c4d9967",
+      "name": "Smartphone",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d9d9b003-7ddd-4e3a-9bbc-08a872862cd3",
+      "supplierID": "74b871bf-c302-4a9c-822e-7d819c4d9967",
+      "name": "WiFi Range Extender",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0591464b-2f7c-4d2c-aca8-434f0924bcb2",
+      "supplierID": "eb979cde-4423-458c-9527-55a7978449db",
+      "name": "Instant Pot",
+      "price": 45,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b7b499e4-eaa7-4237-a7ea-d8aaaf7cc851",
+      "supplierID": "eb979cde-4423-458c-9527-55a7978449db",
+      "name": "Coffee Maker",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "2a15adff-c275-41e4-bc19-4663e2d01f3a",
+      "supplierID": "eb979cde-4423-458c-9527-55a7978449db",
+      "name": "Hair Dryer",
+      "price": 5.49,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3e52498a-5d19-4f0d-a19f-96e30a04b4ae",
+      "supplierID": "eb979cde-4423-458c-9527-55a7978449db",
+      "name": "Solar Charger",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5c88733b-bb48-4b3b-885b-20a81df5be43",
+      "supplierID": "eb979cde-4423-458c-9527-55a7978449db",
+      "name": "Smart Glasses",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "0799c4ed-d367-4636-aeb5-2bfcf93d1d9c",
+      "supplierID": "c9ef869f-9008-4b08-bb51-be36492ca062",
+      "name": "Instant Pot",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "bfbde43b-2ae7-4aea-b511-f8fdfd2d6ff4",
+      "supplierID": "c9ef869f-9008-4b08-bb51-be36492ca062",
+      "name": "3D Printer",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "52fe1de6-7640-4290-9594-b0251dc52232",
+      "supplierID": "c9ef869f-9008-4b08-bb51-be36492ca062",
+      "name": "Solar Charger",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b321f2ef-0cde-4614-9f26-97d30482e6a7",
+      "supplierID": "c9ef869f-9008-4b08-bb51-be36492ca062",
+      "name": "Action Camera",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "ffcbd38e-2e15-4ec8-ba7f-c2e00797201d",
+      "supplierID": "c9ef869f-9008-4b08-bb51-be36492ca062",
+      "name": "Security Drone",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5eab753b-f9d1-4b98-97e1-14cdf526d167",
+      "supplierID": "4e57f0ed-479f-4a5f-9f33-55e5993ec67a",
+      "name": "Massage Gun",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "806eda93-35b7-4f4b-8a6f-0c9b56bbb20d",
+      "supplierID": "4e57f0ed-479f-4a5f-9f33-55e5993ec67a",
+      "name": "Soundbar",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "30dbeca3-1d90-4e04-9807-63ea234975d5",
+      "supplierID": "4e57f0ed-479f-4a5f-9f33-55e5993ec67a",
+      "name": "Solar Charger",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c7a3f1fe-b8fc-4e22-a441-509d96721507",
+      "supplierID": "4e57f0ed-479f-4a5f-9f33-55e5993ec67a",
+      "name": "Wireless Router",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "f9c69a00-5b66-45b5-a926-97cdf531354f",
+      "supplierID": "4e57f0ed-479f-4a5f-9f33-55e5993ec67a",
+      "name": "Wireless Mouse",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "4d3c55d5-d4f9-4f99-9214-5fc0f612e674",
+      "supplierID": "3b3836ac-54a7-43f0-9dfd-347a09a8096c",
+      "name": "Smart Home Hub",
+      "price": 57.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b0e44a56-9e31-43cd-b800-9e78c494ced8",
+      "supplierID": "3b3836ac-54a7-43f0-9dfd-347a09a8096c",
+      "name": "Noise Cancelling Earbuds",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "cdd2f486-96f6-4836-a778-e67954c0c83c",
+      "supplierID": "3b3836ac-54a7-43f0-9dfd-347a09a8096c",
+      "name": "Ergonomic Chair",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "44708172-2091-4e21-a350-e58162687d4a",
+      "supplierID": "3b3836ac-54a7-43f0-9dfd-347a09a8096c",
+      "name": "Digital Camera",
+      "price": 33.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d23b333d-3f4d-4ab5-b2d7-5dc3a9424017",
+      "supplierID": "3b3836ac-54a7-43f0-9dfd-347a09a8096c",
+      "name": "Mechanical Keyboard",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "a7955310-fdb1-4071-9c48-198338f953fd",
+      "supplierID": "8b64fd54-40f1-45e8-a297-1b03149f2849",
+      "name": "Laptop Stand",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "84a3a95f-de80-4a02-8edd-48e93623ce32",
+      "supplierID": "8b64fd54-40f1-45e8-a297-1b03149f2849",
+      "name": "Smart Lock",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3dcddcfc-7256-429f-b7f3-7973a05a908a",
+      "supplierID": "8b64fd54-40f1-45e8-a297-1b03149f2849",
+      "name": "Robot Vacuum",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b95ba853-6752-411e-82a2-6e13db3d1d10",
+      "supplierID": "8b64fd54-40f1-45e8-a297-1b03149f2849",
+      "name": "Bluetooth Speaker",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "6eda7303-8d2e-4077-8ace-cb7639b27316",
+      "supplierID": "8b64fd54-40f1-45e8-a297-1b03149f2849",
+      "name": "3D Printer",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d5bf0cf8-206b-4842-ad63-54dcceeb36e9",
+      "supplierID": "d3edaf8e-cbaf-4e29-8ab4-188074931865",
+      "name": "Noise Cancelling Headphones",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3039812d-2873-436c-9dcf-38ffb4e152f4",
+      "supplierID": "d3edaf8e-cbaf-4e29-8ab4-188074931865",
+      "name": "Noise Cancelling Earbuds",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d82628e2-9adc-4aad-b875-17b81e844d66",
+      "supplierID": "d3edaf8e-cbaf-4e29-8ab4-188074931865",
+      "name": "Instant Pot",
+      "price": 3.89,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d78cfc0b-8f40-4494-96af-1aea422e3c6a",
+      "supplierID": "d3edaf8e-cbaf-4e29-8ab4-188074931865",
+      "name": "Soundbar",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "c4cf3817-389b-4d84-a093-935eaa2747a3",
+      "supplierID": "d3edaf8e-cbaf-4e29-8ab4-188074931865",
+      "name": "Wireless Mouse",
+      "price": 25.5,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "fd3460f0-7a44-48c0-ae91-e379208f63fd",
+      "supplierID": "d7e06c70-fd2c-4799-b670-e8bc37a61abe",
+      "name": "Blender",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "08f689d2-b7ca-48cf-88f0-8ea48c733005",
+      "supplierID": "d7e06c70-fd2c-4799-b670-e8bc37a61abe",
+      "name": "Electric Shaver",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "14510f73-bd6d-4ed0-8a0f-da6dca1f35b1",
+      "supplierID": "d7e06c70-fd2c-4799-b670-e8bc37a61abe",
+      "name": "Mechanical Keyboard",
+      "price": 10.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "3f863600-f548-4ec2-a9c1-6aad943fae2a",
+      "supplierID": "d7e06c70-fd2c-4799-b670-e8bc37a61abe",
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "61f6f2d8-128c-4f28-92fa-92475ffcd04d",
+      "supplierID": "d7e06c70-fd2c-4799-b670-e8bc37a61abe",
+      "name": "Smart Light Bulb",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "01ef0fa6-944d-482e-a7bf-94d8ca5c99da",
+      "supplierID": "31025955-372b-4cef-95dd-22fe7c8cbb4d",
+      "name": "Bluetooth Speaker",
+      "price": 29.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "28b7c5d1-c68c-47d2-8a89-d31dcf4783a7",
+      "supplierID": "31025955-372b-4cef-95dd-22fe7c8cbb4d",
+      "name": "Soundbar",
+      "price": 14.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "79eb2764-1463-4c38-ac11-18e877241d0d",
+      "supplierID": "31025955-372b-4cef-95dd-22fe7c8cbb4d",
+      "name": "Wireless Charger",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "d1ca3766-364d-4534-ad79-7bedf1406c15",
+      "supplierID": "31025955-372b-4cef-95dd-22fe7c8cbb4d",
+      "name": "E-Reader",
+      "price": 91.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b3959047-90a8-4078-9a97-6138837736d3",
+      "supplierID": "31025955-372b-4cef-95dd-22fe7c8cbb4d",
+      "name": "Fitness Tracker",
+      "price": 127.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "5f768b85-705a-4cfe-a027-4874c0ca07e7",
+      "supplierID": "b348f695-7f24-4707-a1d9-79ea4d4d2d5a",
+      "name": "Standing Desk",
+      "price": 27.3,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "481fbe37-5fa6-4f77-bb1d-0fe2ec3b6139",
+      "supplierID": "b348f695-7f24-4707-a1d9-79ea4d4d2d5a",
+      "name": "Ergonomic Chair",
+      "price": 15.99,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "dda02319-eef7-4f1b-ae1c-dfda15334592",
+      "supplierID": "b348f695-7f24-4707-a1d9-79ea4d4d2d5a",
+      "name": "3D Printer",
+      "price": 685,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "31484482-816d-40cd-8680-fdfd044eeab2",
+      "supplierID": "b348f695-7f24-4707-a1d9-79ea4d4d2d5a",
+      "name": "Security Drone",
+      "price": 12.75,
+      "pngPhotoFileURI": "NotProvidedYet"
+    },
+    {
+      "id": "b6886df8-c9a7-4ce3-8efe-950c59b3ce07",
+      "supplierID": "b348f695-7f24-4707-a1d9-79ea4d4d2d5a",
+      "name": "Smart Door Lock",
+      "price": 7.95,
+      "pngPhotoFileURI": "NotProvidedYet"
+    }
+  ]
+}
