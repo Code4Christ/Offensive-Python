@@ -1,0 +1,12 @@
+200 OK
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: no-cache, must-revalidate
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Date: Sat, 22 Nov 2025 20:23:29 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 7 (http://drupal.org)

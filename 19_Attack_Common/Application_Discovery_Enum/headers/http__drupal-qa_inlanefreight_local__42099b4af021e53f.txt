@@ -1,0 +1,12 @@
+200 OK
+Date: Sat, 22 Nov 2025 20:23:29 GMT
+X-Generator: Drupal 7 (http://drupal.org)
+Content-Type: text/html; charset=utf-8
+Etag: "1763843009-gzip"
+Content-Language: en
+Vary: Accept-Encoding
+Retry-Count: 0
+Server: Apache/2.4.41 (Ubuntu)
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Sat, 22 Nov 2025 20:23:29 +0000
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0

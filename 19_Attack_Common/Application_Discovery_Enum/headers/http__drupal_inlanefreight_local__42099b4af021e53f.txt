@@ -1,0 +1,15 @@
+200 OK
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Drupal-Cache: HIT
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+X-Drupal-Dynamic-Cache: MISS
+Server: Apache/2.4.41 (Ubuntu)
+Cache-Control: must-revalidate, no-cache, private
+X-Content-Type-Options: nosniff
+X-Generator: Drupal 8 (https://www.drupal.org)
+Vary: Accept-Encoding
+Date: Sat, 22 Nov 2025 20:23:29 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Language: en

@@ -1,0 +1,56 @@
+# Nmap 7.95 scan initiated Sat Nov 22 13:20:30 2025 as: /usr/lib/nmap/nmap -p 80,443,8000,8080,8180,8888,10000 --open -oA web_discovery -iL scope_list
+Nmap scan report for app.inlanefreight.local (10.129.152.189)
+Host is up (0.069s latency).
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dev.inlanefreight.local (10.129.152.189)
+Host is up (0.062s latency).
+rDNS record for 10.129.152.189: app.inlanefreight.local
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for drupal-dev.inlanefreight.local (10.129.152.189)
+Host is up (0.065s latency).
+rDNS record for 10.129.152.189: app.inlanefreight.local
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for drupal-qa.inlanefreight.local (10.129.152.189)
+Host is up (0.062s latency).
+rDNS record for 10.129.152.189: app.inlanefreight.local
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for drupal-acc.inlanefreight.local (10.129.152.189)
+Host is up (0.065s latency).
+rDNS record for 10.129.152.189: app.inlanefreight.local
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for drupal.inlanefreight.local (10.129.152.189)
+Host is up (0.064s latency).
+rDNS record for 10.129.152.189: app.inlanefreight.local
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for blog.inlanefreight.local (10.129.152.189)
+Host is up (0.063s latency).
+rDNS record for 10.129.152.189: app.inlanefreight.local
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for app.inlanefreight.local (10.129.152.189)
+Host is up (0.10s latency).
+Not shown: 6 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Sat Nov 22 13:20:32 2025 -- 8 IP addresses (8 hosts up) scanned in 2.05 seconds
